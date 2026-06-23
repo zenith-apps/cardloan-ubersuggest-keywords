@@ -15,13 +15,25 @@
       "unique_after": 3997,
       "unique_added": 536,
       "errors": []
+    },
+    {
+      "limit": 100,
+      "sortby": "-searchVolume",
+      "start_prev": 4998,
+      "pages": 23,
+      "suggestions_seen": 1951,
+      "suggestion_count_hint": 9606,
+      "unique_before": 4238,
+      "unique_after": 4436,
+      "unique_added": 198,
+      "errors": []
     }
   ],
   "status": "running",
-  "updated_at": "2026-06-23T15:25:19.688358+00:00",
-  "unique_keywords": 4238,
-  "rows_with_metrics": 1514,
-  "rows_missing_metrics": 2724,
+  "updated_at": "2026-06-23T15:31:36.807242+00:00",
+  "unique_keywords": 4439,
+  "rows_with_metrics": 1777,
+  "rows_missing_metrics": 2662,
   "out_json": "/srv/projects/cardloan-ubersuggest-keywords/data/cardloan_keywords_candidates_all.json",
   "out_csv": "/srv/projects/cardloan-ubersuggest-keywords/data/cardloan_keywords_candidates_all.csv"
 }
