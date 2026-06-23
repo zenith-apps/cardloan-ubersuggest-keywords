@@ -1,0 +1,30 @@
+{
+  "run_host": "k11",
+  "tool_source": "/srv/projects/ubersuggest-keywords",
+  "seed": "カードローン",
+  "lang": "ja",
+  "country": "jp",
+  "loc_id": "2392",
+  "started_at": "2026-06-23T15:07:13.318530+00:00",
+  "updated_at": "2026-06-23T15:16:15.179762+00:00",
+  "status": "enrichment_running",
+  "match_page_limit": 600,
+  "enrichment_initial_chunk_size": 50,
+  "unique_keywords": 3461,
+  "rows_with_metrics": 1140,
+  "rows_missing_metrics": 2321,
+  "suggestion_count_hint": 9606,
+  "raw_rows_seen": 3479,
+  "enrichment_returned_rows_total": 949,
+  "enrichment_processed_missing_keywords": 950,
+  "errors": [],
+  "files": {
+    "match_csv": "/srv/projects/cardloan-ubersuggest-keywords/data/cardloan_keywords_match_all.csv",
+    "match_json": "/srv/projects/cardloan-ubersuggest-keywords/data/cardloan_keywords_match_all.json",
+    "enriched_csv": "/srv/projects/cardloan-ubersuggest-keywords/data/cardloan_keywords_enriched.csv",
+    "enriched_json": "/srv/projects/cardloan-ubersuggest-keywords/data/cardloan_keywords_enriched.json",
+    "missing_csv": "/srv/projects/cardloan-ubersuggest-keywords/data/cardloan_keywords_missing_after_enrichment.csv",
+    "raw_match_pages_jsonl": "/srv/projects/cardloan-ubersuggest-keywords/raw/raw_match_pages.jsonl",
+    "progress_log": "/srv/projects/cardloan-ubersuggest-keywords/raw/progress.log"
+  }
+}

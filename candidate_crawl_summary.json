@@ -1,0 +1,27 @@
+{
+  "run_host": "k11",
+  "seed": "カードローン",
+  "lang": "ja",
+  "country": "jp",
+  "started_at": "2026-06-23T15:17:29.761477+00:00",
+  "base_unique_from_limit600": 3461,
+  "variants": [
+    {
+      "limit": 300,
+      "pages": 16,
+      "suggestions_seen": 3604,
+      "suggestion_count_hint": 9606,
+      "unique_before": 3461,
+      "unique_after": 3997,
+      "unique_added": 536,
+      "errors": []
+    }
+  ],
+  "status": "running",
+  "updated_at": "2026-06-23T15:25:19.688358+00:00",
+  "unique_keywords": 4238,
+  "rows_with_metrics": 1514,
+  "rows_missing_metrics": 2724,
+  "out_json": "/srv/projects/cardloan-ubersuggest-keywords/data/cardloan_keywords_candidates_all.json",
+  "out_csv": "/srv/projects/cardloan-ubersuggest-keywords/data/cardloan_keywords_candidates_all.csv"
+}

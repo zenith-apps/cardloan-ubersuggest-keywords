@@ -1,0 +1,15 @@
+*.env
+.env
+.env.*
+.secrets/
+*.pem
+*.key
+*.p12
+*.cookie
+*.cookies
+chrome-profile/
+token.json
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,36 @@
+K11_FETCH_START seed=カードローン lang=ja country=jp
+MATCH_PAGE 1: prev=0 next=998 suggestions=321 unique=319 added=319 missing_metrics=299 total_hint=9606
+MATCH_PAGE 2: prev=998 next=1998 suggestions=334 unique=650 added=331 missing_metrics=611 total_hint=9606
+MATCH_PAGE 3: prev=1998 next=2998 suggestions=367 unique=1016 added=366 missing_metrics=958 total_hint=9606
+MATCH_PAGE 4: prev=2998 next=3998 suggestions=362 unique=1378 added=362 missing_metrics=1301 total_hint=9606
+MATCH_PAGE 5: prev=3998 next=4998 suggestions=385 unique=1763 added=385 missing_metrics=1667 total_hint=9606
+MATCH_PAGE 6: prev=4998 next=5998 suggestions=272 unique=2035 added=272 missing_metrics=1920 total_hint=9606
+MATCH_PAGE 7: prev=5998 next=6998 suggestions=93 unique=2128 added=93 missing_metrics=1994 total_hint=9606
+MATCH_PAGE 8: prev=6998 next=7998 suggestions=189 unique=2317 added=189 missing_metrics=2164 total_hint=9606
+MATCH_PAGE 9: prev=7998 next=8998 suggestions=717 unique=3024 added=707 missing_metrics=2852 total_hint=9606
+MATCH_PAGE 10: prev=8998 next=None suggestions=438 unique=3461 added=437 missing_metrics=3270 total_hint=9606
+ENRICH_START missing=3270 initial_chunks=66
+ENRICH chunk=1 size=50 info={'returned': 50, 'exact': 50, 'compact': 0, 'updated': 50} with_metrics=241 still_missing=3220 queue=65
+ENRICH chunk=2 size=50 info={'returned': 50, 'exact': 50, 'compact': 0, 'updated': 50} with_metrics=291 still_missing=3170 queue=64
+ENRICH chunk=3 size=50 info={'returned': 50, 'exact': 50, 'compact': 0, 'updated': 50} with_metrics=341 still_missing=3120 queue=63
+ENRICH chunk=4 size=50 info={'returned': 50, 'exact': 50, 'compact': 0, 'updated': 50} with_metrics=391 still_missing=3070 queue=62
+ENRICH chunk=5 size=50 info={'returned': 50, 'exact': 50, 'compact': 0, 'updated': 50} with_metrics=441 still_missing=3020 queue=61
+ENRICH chunk=6 size=50 info={'returned': 50, 'exact': 50, 'compact': 0, 'updated': 50} with_metrics=491 still_missing=2970 queue=60
+ENRICH chunk=7 size=50 info={'returned': 50, 'exact': 50, 'compact': 0, 'updated': 50} with_metrics=541 still_missing=2920 queue=59
+ENRICH chunk=8 size=50 info={'returned': 50, 'exact': 50, 'compact': 0, 'updated': 50} with_metrics=591 still_missing=2870 queue=58
+ENRICH chunk=9 size=50 info={'returned': 50, 'exact': 50, 'compact': 0, 'updated': 50} with_metrics=641 still_missing=2820 queue=57
+ENRICH chunk=10 size=50 info={'returned': 50, 'exact': 50, 'compact': 0, 'updated': 50} with_metrics=691 still_missing=2770 queue=56
+ENRICH chunk=11 size=50 info={'returned': 50, 'exact': 50, 'compact': 0, 'updated': 50} with_metrics=741 still_missing=2720 queue=55
+SPLIT chunk=12 size=50 reason=start_500 remaining_queue=56
+ENRICH chunk=13 size=25 info={'returned': 25, 'exact': 25, 'compact': 0, 'updated': 25} with_metrics=766 still_missing=2695 queue=55
+ENRICH chunk=14 size=25 info={'returned': 25, 'exact': 25, 'compact': 0, 'updated': 25} with_metrics=791 still_missing=2670 queue=54
+ENRICH chunk=15 size=50 info={'returned': 50, 'exact': 50, 'compact': 0, 'updated': 50} with_metrics=841 still_missing=2620 queue=53
+ENRICH chunk=16 size=50 info={'returned': 49, 'exact': 49, 'compact': 0, 'updated': 49} with_metrics=890 still_missing=2571 queue=52
+SPLIT chunk=17 size=50 reason=start_500 remaining_queue=53
+ENRICH chunk=18 size=25 info={'returned': 25, 'exact': 25, 'compact': 0, 'updated': 25} with_metrics=915 still_missing=2546 queue=52
+ENRICH chunk=19 size=25 info={'returned': 25, 'exact': 25, 'compact': 0, 'updated': 25} with_metrics=940 still_missing=2521 queue=51
+ENRICH chunk=20 size=50 info={'returned': 50, 'exact': 50, 'compact': 0, 'updated': 50} with_metrics=990 still_missing=2471 queue=50
+ENRICH chunk=21 size=50 info={'returned': 50, 'exact': 50, 'compact': 0, 'updated': 50} with_metrics=1040 still_missing=2421 queue=49
+ENRICH chunk=22 size=50 info={'returned': 50, 'exact': 50, 'compact': 0, 'updated': 50} with_metrics=1090 still_missing=2371 queue=48
+ENRICH chunk=23 size=50 info={'returned': 50, 'exact': 50, 'compact': 0, 'updated': 50} with_metrics=1140 still_missing=2321 queue=47
+SPLIT chunk=24 size=50 reason=start_500 remaining_queue=48
