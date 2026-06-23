@@ -30,10 +30,10 @@
     }
   ],
   "status": "running",
-  "updated_at": "2026-06-23T15:31:36.807242+00:00",
-  "unique_keywords": 4439,
-  "rows_with_metrics": 1777,
-  "rows_missing_metrics": 2662,
+  "updated_at": "2026-06-23T15:40:55.067654+00:00",
+  "unique_keywords": 4695,
+  "rows_with_metrics": 2009,
+  "rows_missing_metrics": 2686,
   "out_json": "/srv/projects/cardloan-ubersuggest-keywords/data/cardloan_keywords_candidates_all.json",
   "out_csv": "/srv/projects/cardloan-ubersuggest-keywords/data/cardloan_keywords_candidates_all.csv"
 }
