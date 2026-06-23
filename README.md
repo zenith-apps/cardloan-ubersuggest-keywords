@@ -8,8 +8,17 @@ The export uses `lang=ja`, `country=jp`. It includes keyword, search volume, CPC
 
 ## Files
 
+- Download the volume-sorted CSV:
+  `https://raw.githubusercontent.com/zenith-apps/cardloan-ubersuggest-keywords/main/data/cardloan_keywords_by_volume.csv`
+- Download the adjacent seed candidates CSV:
+  `https://raw.githubusercontent.com/zenith-apps/cardloan-ubersuggest-keywords/main/data/adjacent_seed_candidates_no_cardloan.csv`
+
 - `data/cardloan_keywords_enriched.csv` - main CSV export.
 - `data/cardloan_keywords_enriched.json` - same rows in JSON.
+- `data/cardloan_keywords_by_volume.csv` - all current keywords sorted by search volume descending.
+- `data/cardloan_keywords_by_volume.json` - JSON version of the volume-sorted export.
+- `data/adjacent_seed_candidates_no_cardloan.csv` - adjacent seed candidates that do not include `カードローン`.
+- `data/adjacent_seed_candidates_no_cardloan.json` - JSON version of the adjacent seed candidates.
 - `data/cardloan_keywords_match_all.csv` - all keywords from paged `match_keywords` before enrichment.
 - `data/cardloan_keywords_match_all.json` - JSON version of the paged match export.
 - `data/cardloan_keywords_missing_after_enrichment.csv` - keywords that still lacked metrics after enrichment, if any.
