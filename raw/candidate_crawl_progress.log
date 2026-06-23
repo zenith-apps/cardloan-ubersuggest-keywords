@@ -185,3 +185,7 @@ CRAWL_PAGE limit=300 sortby=-cpc page=9 prev=4798 next=5398 suggestions=222 uniq
 CRAWL_PAGE limit=300 sortby=-cpc page=10 prev=5398 next=5998 suggestions=156 unique=4896 added=6 count=9606
 CRAWL_PAGE limit=300 sortby=-cpc page=11 prev=5998 next=6598 suggestions=71 unique=4897 added=1 count=9606
 RATE_LIMIT limit=300 sortby=-cpc page=12 prev=6598 status=429 wait=120s {"error": "TOO_MANY_REQUEST", "description": "bearer token expired.", "code": ""}
+CRAWL_START limit=300 sortby=-cpc start_prev=6598 before=4897
+RATE_LIMIT limit=300 sortby=-cpc page=1 prev=6598 status=429 wait=120s {"error": "TOO_MANY_REQUEST", "description": "bearer token expired.", "code": ""}
+RATE_LIMIT limit=300 sortby=-cpc page=1 prev=6598 status=429 wait=180s {"error": "TOO_MANY_REQUEST", "description": "bearer token expired.", "code": ""}
+RATE_LIMIT limit=300 sortby=-cpc page=1 prev=6598 status=429 wait=240s {"error": "TOO_MANY_REQUEST", "description": "bearer token expired.", "code": ""}
