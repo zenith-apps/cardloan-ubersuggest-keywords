@@ -60,11 +60,11 @@
       ]
     }
   ],
-  "status": "variant_complete",
-  "updated_at": "2026-06-23T15:52:35.478354+00:00",
-  "unique_keywords": 4870,
-  "rows_with_metrics": 2541,
-  "rows_missing_metrics": 2329,
+  "status": "running",
+  "updated_at": "2026-06-23T15:55:13.941082+00:00",
+  "unique_keywords": 4897,
+  "rows_with_metrics": 2545,
+  "rows_missing_metrics": 2352,
   "out_json": "/srv/projects/cardloan-ubersuggest-keywords/data/cardloan_keywords_candidates_all.json",
   "out_csv": "/srv/projects/cardloan-ubersuggest-keywords/data/cardloan_keywords_candidates_all.csv"
 }

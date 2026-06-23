@@ -17510,6 +17510,23 @@
     "has_metrics": true
   },
   {
+    "keyword": "カードローンきゃっする",
+    "volume": 210,
+    "cpc": 484.754985,
+    "cpc_dollars": 3.0,
+    "sd": 45,
+    "pd": 44,
+    "competition": 0.44,
+    "intent": "",
+    "updated_at": 1766159642,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 5,
+    "previous_key": 2398,
+    "next_key": 2998,
+    "has_metrics": true
+  },
+  {
     "keyword": "カードローンとリボ払いの違い",
     "volume": 210,
     "cpc": 435.47156152499997,
@@ -17541,6 +17558,23 @@
     "page": "",
     "previous_key": "",
     "next_key": "",
+    "has_metrics": true
+  },
+  {
+    "keyword": "カードローン利率",
+    "volume": 210,
+    "cpc": 247.22504235,
+    "cpc_dollars": 1.53,
+    "sd": 53,
+    "pd": 71,
+    "competition": 0.71,
+    "intent": "",
+    "updated_at": 1766159642,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 5,
+    "previous_key": 2398,
+    "next_key": 2998,
     "has_metrics": true
   },
   {
@@ -17765,6 +17799,23 @@
     "has_metrics": true
   },
   {
+    "keyword": "セブン銀行カードローン返済",
+    "volume": 210,
+    "cpc": 617.2546808999999,
+    "cpc_dollars": 3.82,
+    "sd": 32,
+    "pd": 3,
+    "competition": 0.03,
+    "intent": "",
+    "updated_at": 1766159642,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 5,
+    "previous_key": 2398,
+    "next_key": 2998,
+    "has_metrics": true
+  },
+  {
     "keyword": "ソニー銀行カードローン 審査 口コミ",
     "volume": 210,
     "cpc": 698.855103375,
@@ -17915,6 +17966,23 @@
     "page": "",
     "previous_key": "",
     "next_key": "",
+    "has_metrics": true
+  },
+  {
+    "keyword": "地方銀行カードローン",
+    "volume": 210,
+    "cpc": 1223.19841215,
+    "cpc_dollars": 7.57,
+    "sd": 55,
+    "pd": 79,
+    "competition": 0.79,
+    "intent": "",
+    "updated_at": 1766159642,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 5,
+    "previous_key": 2398,
+    "next_key": 2998,
     "has_metrics": true
   },
   {
@@ -38267,6 +38335,23 @@
     "has_metrics": true
   },
   {
+    "keyword": "auじぶん銀行 カードローン カードレス",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 8,
+    "previous_key": 4198,
+    "next_key": 4798,
+    "has_metrics": false
+  },
+  {
     "keyword": "auじぶん銀行 カードローン キャンペーン",
     "volume": null,
     "cpc": null,
@@ -38469,6 +38554,23 @@
     "previous_key": 9298,
     "next_key": 9398,
     "has_metrics": true
+  },
+  {
+    "keyword": "auじぶん銀行カードローン 返済額",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 5,
+    "previous_key": 2398,
+    "next_key": 2998,
+    "has_metrics": false
   },
   {
     "keyword": "auスマートローンとカードローン",
@@ -42585,6 +42687,23 @@
     "has_metrics": false
   },
   {
+    "keyword": "みずほ銀行 カードローン 仮審査",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 6,
+    "previous_key": 2998,
+    "next_key": 3598,
+    "has_metrics": false
+  },
+  {
     "keyword": "みずほ銀行 カードローン 会社に電話",
     "volume": null,
     "cpc": null,
@@ -43874,6 +43993,23 @@
     "page": 5,
     "previous_key": 3998,
     "next_key": 4998,
+    "has_metrics": false
+  },
+  {
+    "keyword": "みずほ銀行カードローン借り方",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 6,
+    "previous_key": 2998,
+    "next_key": 3598,
     "has_metrics": false
   },
   {
@@ -47889,6 +48025,23 @@
     "has_metrics": true
   },
   {
+    "keyword": "イオン銀行カードローン 金利",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 5,
+    "previous_key": 2398,
+    "next_key": 2998,
+    "has_metrics": false
+  },
+  {
     "keyword": "イオン銀行カードローン 電話番号",
     "volume": null,
     "cpc": null,
@@ -48739,6 +48892,23 @@
     "has_metrics": false
   },
   {
+    "keyword": "オリックス銀行カードローン審査 口コミ",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 5,
+    "previous_key": 2398,
+    "next_key": 2998,
+    "has_metrics": false
+  },
+  {
     "keyword": "オリックス銀行カードローン審査時間",
     "volume": null,
     "cpc": null,
@@ -48858,6 +49028,23 @@
     "has_metrics": false
   },
   {
+    "keyword": "カードローン 0円",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 11,
+    "previous_key": 5998,
+    "next_key": 6598,
+    "has_metrics": false
+  },
+  {
     "keyword": "カードローン 15万",
     "volume": null,
     "cpc": null,
@@ -48872,6 +49059,23 @@
     "page": 8,
     "previous_key": 4398,
     "next_key": 4598,
+    "has_metrics": false
+  },
+  {
+    "keyword": "カードローン 19歳",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 2,
+    "previous_key": 598,
+    "next_key": 1198,
     "has_metrics": false
   },
   {
@@ -52360,6 +52564,23 @@
     "has_metrics": false
   },
   {
+    "keyword": "カードローン 仮審査と本審査",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 10,
+    "previous_key": 5398,
+    "next_key": 5998,
+    "has_metrics": false
+  },
+  {
     "keyword": "カードローン 低金利 キャンペーン",
     "volume": null,
     "cpc": null,
@@ -54618,6 +54839,23 @@
     "page": 33,
     "previous_key": 3498,
     "next_key": 3598,
+    "has_metrics": false
+  },
+  {
+    "keyword": "カードローン 審査 電話",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 10,
+    "previous_key": 5398,
+    "next_key": 5998,
     "has_metrics": false
   },
   {
@@ -57015,6 +57253,23 @@
     "page": 5,
     "previous_key": 3998,
     "next_key": 4998,
+    "has_metrics": false
+  },
+  {
+    "keyword": "カードローン 郵送物",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 10,
+    "previous_key": 5398,
+    "next_key": 5998,
     "has_metrics": false
   },
   {
@@ -60076,6 +60331,23 @@
     "previous_key": 8198,
     "next_key": 8398,
     "has_metrics": true
+  },
+  {
+    "keyword": "カードローンとクレカの違い",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 10,
+    "previous_key": 5398,
+    "next_key": 5998,
+    "has_metrics": false
   },
   {
     "keyword": "カードローンとクレジットの違い",
@@ -64294,6 +64566,23 @@
     "has_metrics": false
   },
   {
+    "keyword": "カードローン金利 計算 シュミレーション",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 6,
+    "previous_key": 2998,
+    "next_key": 3598,
+    "has_metrics": false
+  },
+  {
     "keyword": "カードローン金利とは",
     "volume": null,
     "cpc": null,
@@ -65325,6 +65614,23 @@
     "updated_at": null,
     "source_seed": "カードローン",
     "source": "match_keywords_limit300",
+    "page": 5,
+    "previous_key": 2398,
+    "next_key": 2998,
+    "has_metrics": false
+  },
+  {
+    "keyword": "セブン銀行 カードローン 在籍確認 知恵袋",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
     "page": 5,
     "previous_key": 2398,
     "next_key": 2998,
@@ -66824,6 +67130,23 @@
     "page": 23,
     "previous_key": 2498,
     "next_key": 2598,
+    "has_metrics": false
+  },
+  {
+    "keyword": "セブン銀行カードローン電話番号",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 5,
+    "previous_key": 2398,
+    "next_key": 2998,
     "has_metrics": false
   },
   {
@@ -68847,6 +69170,23 @@
     "page": 7,
     "previous_key": 4698,
     "next_key": 4798,
+    "has_metrics": false
+  },
+  {
+    "keyword": "三井住友 カードローン 暗証番号",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 10,
+    "previous_key": 5398,
+    "next_key": 5998,
     "has_metrics": false
   },
   {
@@ -72029,6 +72369,23 @@
     "has_metrics": false
   },
   {
+    "keyword": "中小 カードローン審査甘い",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 7,
+    "previous_key": 3598,
+    "next_key": 4198,
+    "has_metrics": false
+  },
+  {
     "keyword": "中小企業カードローン",
     "volume": null,
     "cpc": null,
@@ -72264,6 +72621,23 @@
     "page": 9,
     "previous_key": 7998,
     "next_key": 8998,
+    "has_metrics": false
+  },
+  {
+    "keyword": "他社借り入れ カードローン",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 8,
+    "previous_key": 4198,
+    "next_key": 4798,
     "has_metrics": false
   },
   {
@@ -72658,6 +73032,23 @@
     "has_metrics": false
   },
   {
+    "keyword": "住信sbiカードローン 在籍確認",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 7,
+    "previous_key": 3598,
+    "next_key": 4198,
+    "has_metrics": false
+  },
+  {
     "keyword": "住信sbiネット銀行 カードローン atm",
     "volume": null,
     "cpc": null,
@@ -72944,6 +73335,23 @@
     "page": 10,
     "previous_key": 5398,
     "next_key": 5998,
+    "has_metrics": false
+  },
+  {
+    "keyword": "住信sbiネット銀行カードローン 借り換え",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 9,
+    "previous_key": 4798,
+    "next_key": 5398,
     "has_metrics": false
   },
   {
@@ -76942,6 +77350,23 @@
     "has_metrics": false
   },
   {
+    "keyword": "楽天銀行 カードローン カードレス",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 8,
+    "previous_key": 4198,
+    "next_key": 4798,
+    "has_metrics": false
+  },
+  {
     "keyword": "楽天銀行 カードローン メリット",
     "volume": null,
     "cpc": null,
@@ -76956,6 +77381,23 @@
     "page": 8,
     "previous_key": 6998,
     "next_key": 7998,
+    "has_metrics": false
+  },
+  {
+    "keyword": "楽天銀行 カードローン 個人事業主",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 10,
+    "previous_key": 5398,
+    "next_key": 5998,
     "has_metrics": false
   },
   {
@@ -82124,6 +82566,23 @@
     "page": 9,
     "previous_key": 7998,
     "next_key": 8998,
+    "has_metrics": false
+  },
+  {
+    "keyword": "銀行カードローン審査時間",
+    "volume": null,
+    "cpc": null,
+    "cpc_dollars": null,
+    "sd": null,
+    "pd": null,
+    "competition": null,
+    "intent": "",
+    "updated_at": null,
+    "source_seed": "カードローン",
+    "source": "match_keywords_limit300_-cpc",
+    "page": 5,
+    "previous_key": 2398,
+    "next_key": 2998,
     "has_metrics": false
   },
   {

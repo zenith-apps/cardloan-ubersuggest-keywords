@@ -172,3 +172,16 @@ CRAWL_PAGE limit=50 sortby=-searchVolume page=55 prev=9498 next=None suggestions
 CRAWL_START limit=300 sortby=searchVolume start_prev=0 before=4870
 ERROR limit=300 sortby=searchVolume page=1 prev=0 status=500
 CRAWL_START limit=300 sortby=-cpc start_prev=0 before=4870
+CRAWL_START limit=300 sortby=-cpc start_prev=0 before=4870
+CRAWL_PAGE limit=300 sortby=-cpc page=1 prev=0 next=598 suggestions=177 unique=4870 added=0 count=9606
+CRAWL_PAGE limit=300 sortby=-cpc page=2 prev=598 next=1198 suggestions=216 unique=4871 added=1 count=9606
+CRAWL_PAGE limit=300 sortby=-cpc page=3 prev=1198 next=1798 suggestions=231 unique=4871 added=0 count=9606
+CRAWL_PAGE limit=300 sortby=-cpc page=4 prev=1798 next=2398 suggestions=197 unique=4871 added=0 count=9606
+CRAWL_PAGE limit=300 sortby=-cpc page=5 prev=2398 next=2998 suggestions=209 unique=4881 added=10 count=9606
+CRAWL_PAGE limit=300 sortby=-cpc page=6 prev=2998 next=3598 suggestions=221 unique=4884 added=3 count=9606
+CRAWL_PAGE limit=300 sortby=-cpc page=7 prev=3598 next=4198 suggestions=226 unique=4886 added=2 count=9606
+CRAWL_PAGE limit=300 sortby=-cpc page=8 prev=4198 next=4798 suggestions=236 unique=4889 added=3 count=9606
+CRAWL_PAGE limit=300 sortby=-cpc page=9 prev=4798 next=5398 suggestions=222 unique=4890 added=1 count=9606
+CRAWL_PAGE limit=300 sortby=-cpc page=10 prev=5398 next=5998 suggestions=156 unique=4896 added=6 count=9606
+CRAWL_PAGE limit=300 sortby=-cpc page=11 prev=5998 next=6598 suggestions=71 unique=4897 added=1 count=9606
+RATE_LIMIT limit=300 sortby=-cpc page=12 prev=6598 status=429 wait=120s {"error": "TOO_MANY_REQUEST", "description": "bearer token expired.", "code": ""}
