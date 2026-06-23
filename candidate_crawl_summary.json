@@ -27,13 +27,44 @@
       "unique_after": 4436,
       "unique_added": 198,
       "errors": []
+    },
+    {
+      "limit": 50,
+      "sortby": "-searchVolume",
+      "start_prev": 4098,
+      "pages": 55,
+      "suggestions_seen": 2522,
+      "suggestion_count_hint": 9606,
+      "unique_before": 4695,
+      "unique_after": 4870,
+      "unique_added": 175,
+      "errors": []
+    },
+    {
+      "limit": 300,
+      "sortby": "searchVolume",
+      "start_prev": 0,
+      "pages": 1,
+      "suggestions_seen": 0,
+      "suggestion_count_hint": null,
+      "unique_before": 4870,
+      "unique_after": 4870,
+      "unique_added": 0,
+      "errors": [
+        {
+          "page": 1,
+          "previous_key": 0,
+          "status": 500,
+          "body": "{\"message\": \"Internal server error\"}"
+        }
+      ]
     }
   ],
-  "status": "running",
-  "updated_at": "2026-06-23T15:40:55.067654+00:00",
-  "unique_keywords": 4695,
-  "rows_with_metrics": 2009,
-  "rows_missing_metrics": 2686,
+  "status": "variant_complete",
+  "updated_at": "2026-06-23T15:52:35.478354+00:00",
+  "unique_keywords": 4870,
+  "rows_with_metrics": 2541,
+  "rows_missing_metrics": 2329,
   "out_json": "/srv/projects/cardloan-ubersuggest-keywords/data/cardloan_keywords_candidates_all.json",
   "out_csv": "/srv/projects/cardloan-ubersuggest-keywords/data/cardloan_keywords_candidates_all.csv"
 }
