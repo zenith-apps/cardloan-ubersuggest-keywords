@@ -26,3 +26,25 @@ RESUME2_CHUNK at=2026-06-24T20:20:29.386879+09:00 ok=12 attempted=17 size=25 raw
 RESUME2_SPLIT at=2026-06-24T20:20:43.854437+09:00 attempted=18 size=50 detail=start_502: {"message": "Internal server error"}
 RESUME2_CHUNK at=2026-06-24T20:21:14.541130+09:00 ok=13 attempted=19 size=25 raw_rows=25 exact_updated=25 missing_now=1977 detail=
 RESUME2_CHUNK at=2026-06-24T20:21:44.209687+09:00 ok=14 attempted=20 size=25 raw_rows=25 exact_updated=25 missing_now=1952 detail=
+RESUME3_START at=2026-06-24T20:29:15.547210+09:00 target_keywords=500 missing_before=1952 chunk_size=25 max_per_minute=3
+RESUME3_CHUNK at=2026-06-24T20:29:17.891625+09:00 ok=1 attempted=1 size=25 raw_rows=25 exact_updated=25 missing_now=1927 detail=
+RESUME3_CHUNK at=2026-06-24T20:29:36.354712+09:00 ok=2 attempted=2 size=25 raw_rows=25 exact_updated=25 missing_now=1902 detail=
+RESUME3_CHUNK at=2026-06-24T20:30:16.972174+09:00 ok=3 attempted=3 size=25 raw_rows=25 exact_updated=25 missing_now=1877 detail=
+RESUME3_CHUNK at=2026-06-24T20:30:56.486437+09:00 ok=4 attempted=4 size=25 raw_rows=25 exact_updated=25 missing_now=1852 detail=
+RESUME3_CHUNK at=2026-06-24T20:31:36.394464+09:00 ok=5 attempted=5 size=25 raw_rows=25 exact_updated=25 missing_now=1827 detail=
+RESUME3_CHUNK at=2026-06-24T20:32:16.367266+09:00 ok=6 attempted=6 size=25 raw_rows=25 exact_updated=25 missing_now=1802 detail=
+RESUME3_CHUNK at=2026-06-24T20:32:56.759836+09:00 ok=7 attempted=7 size=25 raw_rows=25 exact_updated=25 missing_now=1777 detail=
+RESUME3_CHUNK at=2026-06-24T20:33:36.872378+09:00 ok=8 attempted=8 size=25 raw_rows=25 exact_updated=25 missing_now=1752 detail=
+RESUME3_CHUNK at=2026-06-24T20:34:16.357506+09:00 ok=9 attempted=9 size=25 raw_rows=25 exact_updated=25 missing_now=1727 detail=
+RESUME3_CHUNK at=2026-06-24T20:34:56.759273+09:00 ok=10 attempted=10 size=25 raw_rows=25 exact_updated=25 missing_now=1702 detail=
+RESUME3_CHUNK at=2026-06-24T20:35:36.347375+09:00 ok=11 attempted=11 size=25 raw_rows=25 exact_updated=25 missing_now=1677 detail=
+RESUME3_CHUNK at=2026-06-24T20:36:16.334115+09:00 ok=12 attempted=12 size=25 raw_rows=25 exact_updated=25 missing_now=1652 detail=
+RESUME3_CHUNK at=2026-06-24T20:36:56.474918+09:00 ok=13 attempted=13 size=25 raw_rows=25 exact_updated=25 missing_now=1627 detail=
+RESUME3_CHUNK at=2026-06-24T20:37:36.357887+09:00 ok=14 attempted=14 size=25 raw_rows=25 exact_updated=25 missing_now=1602 detail=
+RESUME3_CHUNK at=2026-06-24T20:38:16.521631+09:00 ok=15 attempted=15 size=25 raw_rows=25 exact_updated=25 missing_now=1577 detail=
+RESUME3_CHUNK at=2026-06-24T20:38:56.558386+09:00 ok=16 attempted=16 size=25 raw_rows=25 exact_updated=25 missing_now=1552 detail=
+RESUME3_CHUNK at=2026-06-24T20:39:36.116698+09:00 ok=17 attempted=17 size=25 raw_rows=25 exact_updated=25 missing_now=1527 detail=
+RESUME3_CHUNK at=2026-06-24T20:40:16.629296+09:00 ok=18 attempted=18 size=25 raw_rows=25 exact_updated=25 missing_now=1502 detail=
+RESUME3_CHUNK at=2026-06-24T20:40:56.340410+09:00 ok=19 attempted=19 size=25 raw_rows=25 exact_updated=25 missing_now=1477 detail=
+RESUME3_CHUNK at=2026-06-24T20:41:36.500302+09:00 ok=20 attempted=20 size=25 raw_rows=25 exact_updated=25 missing_now=1452 detail=
+RESUME3_DONE at=2026-06-24T20:41:36.724300+09:00 chunks_ok=20 chunks_attempted=20 updated=500 missing_after=1452 rate_limited=False
