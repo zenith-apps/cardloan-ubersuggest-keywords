@@ -70,3 +70,25 @@ RESUME4_CHUNK at=2026-06-24T22:04:22.224261+09:00 ok=18 attempted=18 size=25 raw
 RESUME4_CHUNK at=2026-06-24T22:05:01.886573+09:00 ok=19 attempted=19 size=25 raw_rows=25 exact_updated=25 missing_now=977 detail=
 RESUME4_CHUNK at=2026-06-24T22:05:42.156652+09:00 ok=20 attempted=20 size=25 raw_rows=25 exact_updated=25 missing_now=952 detail=
 RESUME4_DONE at=2026-06-24T22:05:42.371016+09:00 chunks_ok=20 chunks_attempted=20 updated=500 missing_after=952 rate_limited=False
+RESUME5_START at=2026-06-24T22:06:53.737174+09:00 target_keywords=500 missing_before=952 chunk_size=25 max_per_minute=3
+RESUME5_CHUNK at=2026-06-24T22:06:55.343944+09:00 ok=1 attempted=1 size=25 raw_rows=25 exact_updated=25 missing_now=927 detail=
+RESUME5_CHUNK at=2026-06-24T22:07:14.831874+09:00 ok=2 attempted=2 size=25 raw_rows=25 exact_updated=25 missing_now=902 detail=
+RESUME5_CHUNK at=2026-06-24T22:07:54.725672+09:00 ok=3 attempted=3 size=25 raw_rows=25 exact_updated=25 missing_now=877 detail=
+RESUME5_CHUNK at=2026-06-24T22:08:34.656024+09:00 ok=4 attempted=4 size=25 raw_rows=25 exact_updated=25 missing_now=852 detail=
+RESUME5_CHUNK at=2026-06-24T22:09:14.694552+09:00 ok=5 attempted=5 size=25 raw_rows=25 exact_updated=25 missing_now=827 detail=
+RESUME5_CHUNK at=2026-06-24T22:09:54.682543+09:00 ok=6 attempted=6 size=25 raw_rows=25 exact_updated=25 missing_now=802 detail=
+RESUME5_CHUNK at=2026-06-24T22:10:34.736270+09:00 ok=7 attempted=7 size=25 raw_rows=25 exact_updated=25 missing_now=777 detail=
+RESUME5_CHUNK at=2026-06-24T22:11:14.660800+09:00 ok=8 attempted=8 size=25 raw_rows=25 exact_updated=25 missing_now=752 detail=
+RESUME5_CHUNK at=2026-06-24T22:11:54.579446+09:00 ok=9 attempted=9 size=25 raw_rows=25 exact_updated=25 missing_now=727 detail=
+RESUME5_CHUNK at=2026-06-24T22:12:34.582959+09:00 ok=10 attempted=10 size=25 raw_rows=25 exact_updated=25 missing_now=702 detail=
+RESUME5_CHUNK at=2026-06-24T22:13:14.716346+09:00 ok=11 attempted=11 size=25 raw_rows=25 exact_updated=25 missing_now=677 detail=
+RESUME5_CHUNK at=2026-06-24T22:13:54.662515+09:00 ok=12 attempted=12 size=25 raw_rows=25 exact_updated=25 missing_now=652 detail=
+RESUME5_CHUNK at=2026-06-24T22:14:34.777357+09:00 ok=13 attempted=13 size=25 raw_rows=25 exact_updated=25 missing_now=627 detail=
+RESUME5_CHUNK at=2026-06-24T22:15:14.568343+09:00 ok=14 attempted=14 size=25 raw_rows=25 exact_updated=25 missing_now=602 detail=
+RESUME5_CHUNK at=2026-06-24T22:15:54.688033+09:00 ok=15 attempted=15 size=25 raw_rows=25 exact_updated=25 missing_now=577 detail=
+RESUME5_CHUNK at=2026-06-24T22:16:34.744799+09:00 ok=16 attempted=16 size=25 raw_rows=24 exact_updated=24 missing_now=553 detail=
+RESUME5_CHUNK at=2026-06-24T22:17:14.622574+09:00 ok=17 attempted=17 size=25 raw_rows=25 exact_updated=25 missing_now=528 detail=
+RESUME5_CHUNK at=2026-06-24T22:17:54.558778+09:00 ok=18 attempted=18 size=25 raw_rows=25 exact_updated=25 missing_now=503 detail=
+RESUME5_CHUNK at=2026-06-24T22:18:34.622881+09:00 ok=19 attempted=19 size=25 raw_rows=25 exact_updated=25 missing_now=478 detail=
+RESUME5_CHUNK at=2026-06-24T22:19:14.880930+09:00 ok=20 attempted=20 size=25 raw_rows=25 exact_updated=25 missing_now=453 detail=
+RESUME5_DONE at=2026-06-24T22:19:15.089022+09:00 chunks_ok=20 chunks_attempted=20 updated=499 missing_after=453 rate_limited=False
