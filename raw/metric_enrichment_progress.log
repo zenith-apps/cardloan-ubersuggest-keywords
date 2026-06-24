@@ -92,3 +92,12 @@ RESUME5_CHUNK at=2026-06-24T22:17:54.558778+09:00 ok=18 attempted=18 size=25 raw
 RESUME5_CHUNK at=2026-06-24T22:18:34.622881+09:00 ok=19 attempted=19 size=25 raw_rows=25 exact_updated=25 missing_now=478 detail=
 RESUME5_CHUNK at=2026-06-24T22:19:14.880930+09:00 ok=20 attempted=20 size=25 raw_rows=25 exact_updated=25 missing_now=453 detail=
 RESUME5_DONE at=2026-06-24T22:19:15.089022+09:00 chunks_ok=20 chunks_attempted=20 updated=499 missing_after=453 rate_limited=False
+RESUME6_START at=2026-06-24T22:20:11.660797+09:00 target_keywords=453 missing_before=453 chunk_size=25 max_per_minute=3
+RESUME6_CHUNK at=2026-06-24T22:20:14.527581+09:00 ok=1 attempted=1 size=25 raw_rows=24 exact_updated=24 missing_now=429 detail=
+RESUME6_CHUNK at=2026-06-24T22:20:32.662352+09:00 ok=2 attempted=2 size=25 raw_rows=25 exact_updated=25 missing_now=404 detail=
+RESUME6_CHUNK at=2026-06-24T22:21:12.810618+09:00 ok=3 attempted=3 size=25 raw_rows=25 exact_updated=25 missing_now=379 detail=
+RESUME6_CHUNK at=2026-06-24T22:21:52.630918+09:00 ok=4 attempted=4 size=25 raw_rows=25 exact_updated=25 missing_now=354 detail=
+RESUME6_CHUNK at=2026-06-24T22:22:32.534206+09:00 ok=5 attempted=5 size=25 raw_rows=25 exact_updated=25 missing_now=329 detail=
+RESUME6_CHUNK at=2026-06-24T22:23:12.979035+09:00 ok=6 attempted=6 size=25 raw_rows=25 exact_updated=25 missing_now=304 detail=
+RESUME6_RATE_LIMIT at=2026-06-24T22:23:52.201894+09:00 attempted=7 size=25 detail=status_429: {"error": "TOO_MANY_REQUEST", "description": "bearer token expired.", "code": ""}
+RESUME6_DONE at=2026-06-24T22:23:52.309452+09:00 chunks_ok=6 chunks_attempted=7 updated=149 missing_after=304 rate_limited=True
