@@ -2,3 +2,27 @@ ENRICH_START total=4897 missing=2352 chunks=95
 RATE_LIMIT start chunk=1 size=25 status=429 wait=240s {"error": "TOO_MANY_REQUEST", "description": "bearer token expired.", "code": ""}
 RATE_LIMIT start chunk=1 size=25 status=429 wait=360s {"error": "TOO_MANY_REQUEST", "description": "bearer token expired.", "code": ""}
 RATE_LIMIT start chunk=1 size=25 status=429 wait=480s {"error": "TOO_MANY_REQUEST", "description": "bearer token expired.", "code": ""}
+RESUME_START at=2026-06-24T20:12:25.307253+09:00 target_keywords=500 missing_before=2352 chunk_size=50
+RESUME_CHUNK at=2026-06-24T20:12:26.626064+09:00 ok=1 attempted=1 size=50 raw_rows=42 exact_updated=0 missing_now=2352 detail=
+RESUME_CHUNK at=2026-06-24T20:12:27.930029+09:00 ok=2 attempted=2 size=50 raw_rows=42 exact_updated=0 missing_now=2352 detail=
+RESUME2_START at=2026-06-24T20:14:13.397383+09:00 target_keywords=500 missing_before=2352 chunk_size=50
+RESUME2_CHUNK at=2026-06-24T20:14:16.544557+09:00 ok=1 attempted=1 size=50 raw_rows=50 exact_updated=50 missing_now=2302 detail=
+RESUME2_CHUNK at=2026-06-24T20:14:19.281499+09:00 ok=2 attempted=2 size=50 raw_rows=50 exact_updated=50 missing_now=2252 detail=
+RESUME2_SPLIT at=2026-06-24T20:14:29.150861+09:00 attempted=3 size=50 detail=start_502: {"message": "Internal server error"}
+RESUME2_CHUNK at=2026-06-24T20:14:58.901006+09:00 ok=3 attempted=4 size=25 raw_rows=25 exact_updated=25 missing_now=2227 detail=
+RESUME2_CHUNK at=2026-06-24T20:15:29.321281+09:00 ok=4 attempted=5 size=25 raw_rows=25 exact_updated=25 missing_now=2202 detail=
+RESUME2_SPLIT at=2026-06-24T20:15:43.859085+09:00 attempted=6 size=50 detail=start_502: {"message": "Internal server error"}
+RESUME2_CHUNK at=2026-06-24T20:16:14.468684+09:00 ok=5 attempted=7 size=25 raw_rows=25 exact_updated=25 missing_now=2177 detail=
+RESUME2_CHUNK at=2026-06-24T20:16:44.566152+09:00 ok=6 attempted=8 size=25 raw_rows=25 exact_updated=25 missing_now=2152 detail=
+RESUME2_SPLIT at=2026-06-24T20:16:59.147718+09:00 attempted=9 size=50 detail=start_502: {"message": "Internal server error"}
+RESUME2_CHUNK at=2026-06-24T20:17:29.667010+09:00 ok=7 attempted=10 size=25 raw_rows=25 exact_updated=25 missing_now=2127 detail=
+RESUME2_CHUNK at=2026-06-24T20:17:59.204787+09:00 ok=8 attempted=11 size=25 raw_rows=25 exact_updated=25 missing_now=2102 detail=
+RESUME2_SPLIT at=2026-06-24T20:18:14.108730+09:00 attempted=12 size=50 detail=start_502: {"message": "Internal server error"}
+RESUME2_CHUNK at=2026-06-24T20:18:44.409270+09:00 ok=9 attempted=13 size=25 raw_rows=25 exact_updated=25 missing_now=2077 detail=
+RESUME2_CHUNK at=2026-06-24T20:19:14.473227+09:00 ok=10 attempted=14 size=25 raw_rows=25 exact_updated=25 missing_now=2052 detail=
+RESUME2_SPLIT at=2026-06-24T20:19:28.848019+09:00 attempted=15 size=50 detail=start_502: {"message": "Internal server error"}
+RESUME2_CHUNK at=2026-06-24T20:19:59.268428+09:00 ok=11 attempted=16 size=25 raw_rows=25 exact_updated=25 missing_now=2027 detail=
+RESUME2_CHUNK at=2026-06-24T20:20:29.386879+09:00 ok=12 attempted=17 size=25 raw_rows=25 exact_updated=25 missing_now=2002 detail=
+RESUME2_SPLIT at=2026-06-24T20:20:43.854437+09:00 attempted=18 size=50 detail=start_502: {"message": "Internal server error"}
+RESUME2_CHUNK at=2026-06-24T20:21:14.541130+09:00 ok=13 attempted=19 size=25 raw_rows=25 exact_updated=25 missing_now=1977 detail=
+RESUME2_CHUNK at=2026-06-24T20:21:44.209687+09:00 ok=14 attempted=20 size=25 raw_rows=25 exact_updated=25 missing_now=1952 detail=

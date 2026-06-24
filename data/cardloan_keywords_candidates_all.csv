@@ -1,4 +1,4 @@
-﻿keyword,volume,cpc,cpc_dollars,sd,pd,competition,intent,updated_at,source_seed,source,page,previous_key,next_key,has_metrics
+keyword,volume,cpc,cpc_dollars,sd,pd,competition,intent,updated_at,source_seed,source,page,previous_key,next_key,has_metrics
 カードローン,60500,4584.16630815,28.37,53,79,0.79,3,1780985785,カードローン,searched_keywords,1,0,998,True
 セブン銀行 カードローン,33100,187.43859419999998,1.16,20,45,0.45,1,1769231403,カードローン,match_keywords,1,0,998,True
 カードローン オススメ,27100,2410.8481254,14.92,45,61,0.61,,1766156834,カードローン,match_keywords,1,0,998,True
@@ -2214,466 +2214,466 @@ shimizu with card付帯型カードローン,10,0.0,0.0,13,1,0.0,,1766158140,カ
 関西みらい銀行カードローン 在籍確認,10,1086.659091375,6.725,33,48,0.48,,1766159207,カードローン,match_keywords_limit300+match_keywords_limit50_-searchVolume,27,6698,6798,True
 関西みらい銀行カードローン返済,10,0.0,0.0,31,1,0.0,,1766159231,カードローン,match_keywords_limit50_-searchVolume,29,6898,6998,True
 0800888 カードローン,0,0.0,0.0,17,1,0.0,,1766159351,カードローン,match_keywords+match_keywords_limit50_-searchVolume,39,7898,7998,True
-10万借りる カードローン,,,,,,,,,カードローン,match_keywords,10,8998,,False
-10人ニキ カードローン,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-18歳から カードローン,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,9,1098,1198,False
-18親和銀行カードローン,,,,,,,,,カードローン,match_keywords_limit300,4,1798,2398,False
-1番通りやすいカードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
+10万借りる カードローン,0,0.0,0.0,17,1,0.0,,1766229256,カードローン,match_keywords,10,8998,,True
+10人ニキ カードローン,40,1761.4781064000001,10.9,43,81,0.81,,1766229256,カードローン,match_keywords,5,3998,4998,True
+18歳から カードローン,590,677.1186482400001,4.19,17,52,0.52,"1,3",1778681169,カードローン,match_keywords_limit50_-searchVolume,9,1098,1198,True
+18親和銀行カードローン,320,903.36354264,5.59,16,47,0.47,"3,4",1780945360,カードローン,match_keywords_limit300,4,1798,2398,True
+1番通りやすいカードローン,0,0.0,0.0,30,1,0.0,,1766229256,カードローン,match_keywords,9,7998,8998,True
 40代 カードローン 審査 通る,0,0.0,0.0,4,1,0.0,,1766159447,カードローン,match_keywords+match_keywords_limit50_-searchVolume,47,8698,8798,True
-50代 カードローン おすすめ,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
+50代 カードローン おすすめ,0,0.0,0.0,12,1,0.0,,1766229256,カードローン,match_keywords,8,6998,7998,True
 67歳 カードローン,0,0.0,0.0,17,1,0.0,,1766159351,カードローン,match_keywords+match_keywords_limit50_-searchVolume,39,7898,7998,True
-69歳 カードローン,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-70歳以上 でも借り れる カードローン,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,9,1098,1198,False
-77銀行 カードローン,,,,,,,,,カードローン,match_keywords_limit300,5,2398,2998,False
-7銀行 カードローン,,,,,,,,,カードローン,match_keywords_limit300,5,2398,2998,False
-7銀行 カードローン 増額,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-80歳以上 カードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-81歳 カードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-agビジネスサポート カードローン,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-agビジネスサポート 不動産担保カードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-aioカードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-ai審査 カードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-atm カードローン 案内,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-au pay カードローン 一括返済,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-au pay カードローン 在籍確認,,,,,,,,,カードローン,match_keywords,10,8998,,False
-au pay カードローン 審査,,,,,,,,,カードローン,match_keywords_limit300,10,5398,5998,False
-au pay カードローン 返済,,,,,,,,,カードローン,match_keywords,10,8998,,False
+69歳 カードローン,20,777.3128157599999,4.81,33,49,0.49,,1766229256,カードローン,match_keywords,6,4998,5998,True
+70歳以上 でも借り れる カードローン,590,468.6501384,2.9,13,65,0.65,3,1780257687,カードローン,match_keywords_limit50_-searchVolume,9,1098,1198,True
+77銀行 カードローン,140,723.98366208,4.48,42,79,0.79,,1766229256,カードローン,match_keywords_limit300,5,2398,2998,True
+7銀行 カードローン,170,1147.3848216,7.1,45,88,0.88,,1766229256,カードローン,match_keywords_limit300,5,2398,2998,True
+7銀行 カードローン 増額,0,0.0,0.0,12,1,0.0,,1766229256,カードローン,match_keywords,9,7998,8998,True
+80歳以上 カードローン,0,0.0,0.0,17,1,0.0,,1766229256,カードローン,match_keywords,9,7998,8998,True
+81歳 カードローン,0,0.0,0.0,17,1,0.0,,1766229256,カードローン,match_keywords,9,7998,8998,True
+agビジネスサポート カードローン,50,895.2833678400001,5.54,30,37,0.37,,1766229256,カードローン,match_keywords,4,2998,3998,True
+agビジネスサポート 不動産担保カードローン,0,0.0,0.0,17,1,0.0,,1766229256,カードローン,match_keywords,9,7998,8998,True
+aioカードローン,0,0.0,0.0,30,1,0.0,,1766229256,カードローン,match_keywords,9,7998,8998,True
+ai審査 カードローン,0,0.0,0.0,17,1,0.0,,1766229256,カードローン,match_keywords,9,7998,8998,True
+atm カードローン 案内,50,899.3234552400002,5.565,26,42,0.42,,1766229256,カードローン,match_keywords,5,3998,4998,True
+au pay カードローン 一括返済,0,0.0,0.0,4,1,0.0,,1766229256,カードローン,match_keywords,9,7998,8998,True
+au pay カードローン 在籍確認,0,0.0,0.0,4,1,0.0,,1766229256,カードローン,match_keywords,10,8998,,True
+au pay カードローン 審査,20,484.00247052000003,2.995,15,32,0.32,,1766229256,カードローン,match_keywords_limit300,10,5398,5998,True
+au pay カードローン 返済,0,0.0,0.0,4,1,0.0,,1766229256,カードローン,match_keywords,10,8998,,True
 au pay カードローンとは,0,0.0,0.0,12,1,0.0,,1766159399,カードローン,match_keywords+match_keywords_limit50_-searchVolume,43,8298,8398,True
-au じ ぶん 銀行カードローン 審査 厳しい,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,9,1098,1198,False
-au じぶん銀行カードローン 在籍確認,,,,,,,,,カードローン,match_keywords_limit300,3,1198,1798,False
-au カードローン キャッシング 違い,,,,,,,,,カードローン,match_keywords,10,8998,,False
+au じ ぶん 銀行カードローン 審査 厳しい,590,1496.4483729600001,9.26,12,19,0.19,3,1778679209,カードローン,match_keywords_limit50_-searchVolume,9,1098,1198,True
+au じぶん銀行カードローン 在籍確認,480,1561.08977136,9.66,13,22,0.22,"1,2,4",1779109487,カードローン,match_keywords_limit300,3,1198,1798,True
+au カードローン キャッシング 違い,0,0.0,0.0,4,1,0.0,,1766229256,カードローン,match_keywords,10,8998,,True
 au カードローン 借り換えコース,0,0.0,0.0,12,1,0.0,,1766159543,カードローン,match_keywords+match_keywords_limit50_-searchVolume,55,9498,,True
-au カードローン 残高 確認,,,,,,,,,カードローン,match_keywords_limit300,4,1798,2398,False
-au クレジットカード カードローン,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-au スマートローン カードローン 違い,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-au スマートローンとカードローンの違い,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-auじふん銀行 カードローン 在籍確認,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-auじふん銀行 カードローン 増額,,,,,,,,,カードローン,match_keywords,10,8998,,False
-auじふん銀行 カードローン 返済方法,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
+au カードローン 残高 確認,320,796.70523528,4.93,17,25,0.25,"2,1",1755110067,カードローン,match_keywords_limit300,4,1798,2398,True
+au クレジットカード カードローン,20,466.22608596,2.885,29,51,0.51,,1766229256,カードローン,match_keywords,6,4998,5998,True
+au スマートローン カードローン 違い,40,1462.5116388000001,9.05,14,28,0.28,,1766229256,カードローン,match_keywords,5,3998,4998,True
+au スマートローンとカードローンの違い,40,1330.80478956,8.235,25,21,0.21,,1766229256,カードローン,match_keywords,5,3998,4998,True
+auじふん銀行 カードローン 在籍確認,0,0.0,0.0,12,1,0.0,,1766229256,カードローン,match_keywords,9,7998,8998,True
+auじふん銀行 カードローン 増額,0,0.0,0.0,12,1,0.0,,1766229256,カードローン,match_keywords,10,8998,,True
+auじふん銀行 カードローン 返済方法,0,0.0,0.0,12,1,0.0,,1766229256,カードローン,match_keywords,9,7998,8998,True
 auじふん銀行カードローン 増額,0,0.0,0.0,17,1,0.0,,1766158189,カードローン,match_keywords+match_keywords_limit100_-searchVolume,17,8198,8398,True
-auじふん銀行カードローン 返済方法,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
-auじぶん銀行 カードローン おまとめローン,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
+auじふん銀行カードローン 返済方法,0,0.0,0.0,17,1,0.0,,1766229256,カードローン,match_keywords,8,6998,7998,True
+auじぶん銀行 カードローン おまとめローン,30,1293.6359854800003,8.005,23,31,0.31,,1766229256,カードローン,match_keywords,6,4998,5998,True
 auじぶん銀行 カードローン カードなし,0,0.0,0.0,12,1,0.0,,1766159423,カードローン,match_keywords+match_keywords_limit50_-searchVolume,45,8498,8598,True
-auじぶん銀行 カードローン カードレス,,,,,,,,,カードローン,match_keywords_limit300_-cpc,8,4198,4798,False
-auじぶん銀行 カードローン キャンペーン,,,,,,,,,カードローン,match_keywords_limit300,10,5398,5998,False
+auじぶん銀行 カードローン カードレス,40,988.20537804,6.115,20,22,0.22,,1766229256,カードローン,match_keywords_limit300_-cpc,8,4198,4798,True
+auじぶん銀行 カードローン キャンペーン,20,1142.5367167200002,7.07,20,23,0.23,,1766229256,カードローン,match_keywords_limit300,10,5398,5998,True
 auじぶん銀行 カードローン メリット,0,0.0,0.0,12,1,0.0,,1766158189,カードローン,match_keywords+match_keywords_limit100_-searchVolume,17,8198,8398,True
-auじぶん銀行 カードローン 口コミ,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-auじぶん銀行 カードローン 年齢制限,,,,,,,,,カードローン,match_keywords,10,8998,,False
-auじぶん銀行 カードローン 振込,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-auじぶん銀行 カードローン 振込先,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-auじぶん銀行 カードローン 時間,,,,,,,,,カードローン,match_keywords_limit300,11,5998,6598,False
-auじぶん銀行 カードローン審査,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,9,1098,1198,False
+auじぶん銀行 カードローン 口コミ,70,1111.0240350000001,6.875,21,26,0.26,,1766229256,カードローン,match_keywords,4,2998,3998,True
+auじぶん銀行 カードローン 年齢制限,0,0.0,0.0,12,1,0.0,,1766229256,カードローン,match_keywords,10,8998,,True
+auじぶん銀行 カードローン 振込,50,0.0,0.0,13,1,0.0,,1766229256,カードローン,match_keywords,4,2998,3998,True
+auじぶん銀行 カードローン 振込先,40,0.0,0.0,13,1,0.0,,1766229256,カードローン,match_keywords,5,3998,4998,True
+auじぶん銀行 カードローン 時間,10,1119.1042098,6.925,20,20,0.2,,1766229256,カードローン,match_keywords_limit300,11,5998,6598,True
+auじぶん銀行 カードローン審査,590,856.4985288,5.3,30,26,0.26,"1,3",1778679644,カードローン,match_keywords_limit50_-searchVolume,9,1098,1198,True
 auじぶん銀行カードローン いつ振り込まれる,0,0.0,0.0,17,1,0.0,,1766158260,カードローン,match_keywords+match_keywords_limit100_-searchVolume,23,9398,,True
-auじぶん銀行カードローン アコム,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-auじぶん銀行カードローン 本審査中,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
+auじぶん銀行カードローン アコム,30,0.0,0.0,18,1,0.0,,1766229256,カードローン,match_keywords_limit300,9,4798,5398,True
+auじぶん銀行カードローン 本審査中,0,0.0,0.0,17,1,0.0,,1766229256,カードローン,match_keywords,9,7998,8998,True
 auじぶん銀行カードローン 紛失,0,0.0,0.0,17,1,0.0,,1766159519,カードローン,match_keywords+match_keywords_limit50_-searchVolume,53,9298,9398,True
-auじぶん銀行カードローン 返済額,,,,,,,,,カードローン,match_keywords_limit300_-cpc,5,2398,2998,False
+auじぶん銀行カードローン 返済額,210,1315.4524574400002,8.14,19,3,0.03,,1766229256,カードローン,match_keywords_limit300_-cpc,5,2398,2998,True
 auスマートローンとカードローン,0,0.0,0.0,30,1,0.0,,1766159471,カードローン,match_keywords+match_keywords_limit50_-searchVolume,49,8898,8998,True
-crest カードローン,,,,,,,,,カードローン,match_keywords,10,8998,,False
-csカードローン,,,,,,,,,カードローン,match_keywords_limit300,10,5398,5998,False
-dcカード カードローン キャッシング 違い,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-dカードローン 勧誘,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
-dカードローン 年齢制限,,,,,,,,,カードローン,match_keywords,10,8998,,False
-dスマホローンとカードローンの違いは何ですか,,,,,,,,,カードローン,match_keywords,10,8998,,False
-d払い カードローン,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-ffgカードローン,,,,,,,,,カードローン,match_keywords_limit100,5,798,998,False
-gmoあおぞらカードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
+crest カードローン,0,0.0,0.0,17,1,0.0,,1766229256,カードローン,match_keywords,10,8998,,True
+csカードローン,20,918.71587476,5.685,57,85,0.85,,1766229256,カードローン,match_keywords_limit300,10,5398,5998,True
+dcカード カードローン キャッシング 違い,30,723.98366208,4.48,8,8,0.08,,1766229256,カードローン,match_keywords_limit300,9,4798,5398,True
+dカードローン 勧誘,10,0.0,0.0,21,7,0.07,,1766229256,カードローン,match_keywords,8,6998,7998,True
+dカードローン 年齢制限,0,0.0,0.0,17,1,0.0,,1766229256,カードローン,match_keywords,10,8998,,True
+dスマホローンとカードローンの違いは何ですか,0,0.0,0.0,30,1,0.0,,1766229259,カードローン,match_keywords,10,8998,,True
+d払い カードローン,20,1700.06877792,10.52,44,84,0.84,,1766229259,カードローン,match_keywords,6,4998,5998,True
+ffgカードローン,720,829.02593448,5.13,21,45,0.45,3,1778537318,カードローン,match_keywords_limit100,5,798,998,True
+gmoあおぞらカードローン,0,0.0,0.0,30,1,0.0,,1766229259,カードローン,match_keywords,9,7998,8998,True
 jaカード カードローン,0,0.0,0.0,17,1,0.0,,1766159375,カードローン,match_keywords+match_keywords_limit50_-searchVolume,41,8098,8198,True
-jaカードローン atm,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-jaカードローン 一括返済,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-jaカードローン 審査日数,,,,,,,,,カードローン,match_keywords_limit300,8,4198,4798,False
-jaカードローン 返済方法,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-jaカードローン 返済日,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-ja住宅ローン カードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-ja農協カードローン,,,,,,,,,カードローン,match_keywords,10,8998,,False
-jcb のカードローン,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-jcb カードローン faith,,,,,,,,,カードローン,match_keywords_limit100,9,1598,1798,False
+jaカードローン atm,20,0.0,0.0,21,9,0.09,,1766229259,カードローン,match_keywords,6,4998,5998,True
+jaカードローン 一括返済,30,0.0,0.0,21,9,0.09,,1766229259,カードローン,match_keywords,5,3998,4998,True
+jaカードローン 審査日数,30,433.90538676,2.685,26,25,0.25,,1766229259,カードローン,match_keywords_limit300,8,4198,4798,True
+jaカードローン 返済方法,50,361.99183104,2.24,23,14,0.14,,1766229259,カードローン,match_keywords,5,3998,4998,True
+jaカードローン 返済日,30,0.0,0.0,20,4,0.04,,1766229259,カードローン,match_keywords_limit300,9,4798,5398,True
+ja住宅ローン カードローン,0,0.0,0.0,17,1,0.0,,1766229259,カードローン,match_keywords,9,7998,8998,True
+ja農協カードローン,0,0.0,0.0,30,1,0.0,,1766229259,カードローン,match_keywords,10,8998,,True
+jcb のカードローン,30,19300.30552728,119.43,42,77,0.77,,1766229259,カードローン,match_keywords,5,3998,4998,True
+jcb カードローン faith,390,1675.8282535199999,10.37,18,54,0.54,3,1776799345,カードローン,match_keywords_limit100,9,1598,1798,True
 jcb カードローン faithキャンペーン,0,0.0,0.0,12,1,0.0,,1766156914,カードローン,match_keywords,9,7998,8998,True
-jcb カードローン カードレス,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-jcb キャッシング カードローン 違い,,,,,,,,,カードローン,match_keywords_limit300,4,1798,2398,False
+jcb カードローン カードレス,0,0.0,0.0,12,1,0.0,,1766229259,カードローン,match_keywords,9,7998,8998,True
+jcb キャッシング カードローン 違い,260,450.06573636,2.785,21,53,0.53,,1766229259,カードローン,match_keywords_limit300,4,1798,2398,True
 jcb 法人カードローン,0,0.0,0.0,17,1,0.0,,1766158248,カードローン,match_keywords+match_keywords_limit100_-searchVolume,22,9198,9398,True
-jcbカードローン faith,,,,,,,,,カードローン,match_keywords_limit100,8,1398,1598,False
-jcbカードローン faith 解約,,,,,,,,,カードローン,match_keywords_limit100_-searchVolume,5,5798,5998,False
-jcbカードローン キャンペーン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-jcbカードローン シュミレーション,,,,,,,,,カードローン,match_keywords_limit100_-searchVolume,8,4398,4598,False
-jcbカードローン 保証会社,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-jcbカードローン 総量規制,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,9,4898,4998,False
-jcbカードローン 返済 atm,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-jcbカードローン 返済日,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-jcbカードローン 返済額,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-jcbカードローン 返済額 確認,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-jqカード カードローン,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
-lineポケットマネーはカードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-miカードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-mufgカード キャッシング カードローン 違い,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-myカードローン 怪しい,,,,,,,,,カードローン,match_keywords_limit300,4,1798,2398,False
-neobank カードローン,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,32,3398,3498,False
+jcbカードローン faith,390,1675.8282535199999,10.37,19,54,0.54,3,1777721222,カードローン,match_keywords_limit100,8,1398,1598,True
+jcbカードローン faith 解約,20,0.0,0.0,13,1,0.0,,1766229259,カードローン,match_keywords_limit100_-searchVolume,5,5798,5998,True
+jcbカードローン キャンペーン,0,0.0,0.0,17,1,0.0,,1766229259,カードローン,match_keywords,9,7998,8998,True
+jcbカードローン シュミレーション,40,319.1669046,1.975,20,6,0.06,,1766229259,カードローン,match_keywords_limit100_-searchVolume,8,4398,4598,True
+jcbカードローン 保証会社,70,7042.68035568,43.58,28,31,0.31,,1766229259,カードローン,match_keywords,4,2998,3998,True
+jcbカードローン 総量規制,30,0.0,0.0,20,5,0.05,,1766229259,カードローン,match_keywords_limit50_-searchVolume,9,4898,4998,True
+jcbカードローン 返済 atm,20,0.0,0.0,15,6,0.06,,1766229259,カードローン,match_keywords,6,4998,5998,True
+jcbカードローン 返済日,20,0.0,0.0,24,17,0.17,,1766229259,カードローン,match_keywords,6,4998,5998,True
+jcbカードローン 返済額,50,658.5342462000001,4.075,22,13,0.13,,1766229259,カードローン,match_keywords,5,3998,4998,True
+jcbカードローン 返済額 確認,0,0.0,0.0,12,1,0.0,,1766229259,カードローン,match_keywords,9,7998,8998,True
+jqカード カードローン,0,0.0,0.0,17,1,0.0,,1766229259,カードローン,match_keywords,8,6998,7998,True
+lineポケットマネーはカードローン,0,0.0,0.0,30,1,0.0,,1766229259,カードローン,match_keywords,9,7998,8998,True
+miカードローン,0,0.0,0.0,30,1,0.0,,1766229259,カードローン,match_keywords,9,7998,8998,True
+mufgカード キャッシング カードローン 違い,0,0.0,0.0,4,1,0.0,,1766229259,カードローン,match_keywords,9,7998,8998,True
+myカードローン 怪しい,320,1014.8699548800001,6.28,27,84,0.84,2,1761254273,カードローン,match_keywords_limit300,4,1798,2398,True
+neobank カードローン,70,1237.88277936,7.66,36,57,0.58,,1766229259,カードローン,match_keywords_limit50_-searchVolume,32,3398,3498,True
 neobankカードローン 在籍確認,0,0.0,0.0,17,1,0.0,,1766159375,カードローン,match_keywords+match_keywords_limit50_-searchVolume,41,8098,8198,True
-okbカードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-paypay のカードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-paypay カードローン キャッシング 違い,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
-paypay カードローン キャンペーン,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-paypay カードローン シミュレーション,,,,,,,,,カードローン,match_keywords_limit300,7,3598,4198,False
-paypay カードローン 住所変更,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-paypay 銀行カードローン 在籍確認 なかった,,,,,,,,,カードローン,match_keywords_limit300,4,1798,2398,False
+okbカードローン,0,0.0,0.0,30,1,0.0,,1766229259,カードローン,match_keywords,9,7998,8998,True
+paypay のカードローン,0,0.0,0.0,17,1,0.0,,1766229259,カードローン,match_keywords,9,7998,8998,True
+paypay カードローン キャッシング 違い,0,0.0,0.0,4,1,0.0,,1766229259,カードローン,match_keywords,8,6998,7998,True
+paypay カードローン キャンペーン,30,0.0,0.0,15,4,0.04,,1766229259,カードローン,match_keywords,5,3998,4998,True
+paypay カードローン シミュレーション,70,0.0,0.0,14,2,0.02,,1766229259,カードローン,match_keywords_limit300,7,3598,4198,True
+paypay カードローン 住所変更,0,0.0,0.0,12,1,0.0,,1766229259,カードローン,match_keywords,9,7998,8998,True
+paypay 銀行カードローン 在籍確認 なかった,320,242.405244,1.5,14,4,0.04,"2,1",1776159093,カードローン,match_keywords_limit300,4,1798,2398,True
 paypay 銀行カードローン 審査 何日かかる,0,0.0,0.0,4,1,0.0,,1766158164,カードローン,match_keywords+match_keywords_limit100_-searchVolume,15,7798,7998,True
-paypay 銀行カードローンの申し込み,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-paypay 銀行カードローンの電話番号,,,,,,,,,カードローン,match_keywords,10,8998,,False
-paypay 銀行カードローン返済額,,,,,,,,,カードローン,match_keywords_limit300,4,1798,2398,False
-paypay 銀行カードローン金利,,,,,,,,,カードローン,match_keywords_limit100,9,1598,1798,False
-paypayのカードローン,,,,,,,,,カードローン,match_keywords,10,8998,,False
-paypayカードローン シュミレーション,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-paypayカードローン 問い合わせ,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-paypayカードローン 審査,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,7,898,998,False
-paypayカードローン 返済額,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-paypayカードローン 限度額,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-paypayカードローン 電話,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-paypay銀行 カードローン atm,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
+paypay 銀行カードローンの申し込み,0,0.0,0.0,17,1,0.0,,1766229259,カードローン,match_keywords,9,7998,8998,True
+paypay 銀行カードローンの電話番号,0,0.0,0.0,17,1,0.0,,1766229259,カードローン,match_keywords,10,8998,,True
+paypay 銀行カードローン返済額,320,0.0,0.0,35,1,0.0,1,1780850945,カードローン,match_keywords_limit300,4,1798,2398,True
+paypay 銀行カードローン金利,390,342.59941152000005,2.12,38,2,0.02,2,1768334587,カードローン,match_keywords_limit100,9,1598,1798,True
+paypayのカードローン,0,0.0,0.0,30,1,0.0,,1766229259,カードローン,match_keywords,10,8998,,True
+paypayカードローン シュミレーション,70,0.0,0.0,19,1,0.01,,1766229259,カードローン,match_keywords,4,2998,3998,True
+paypayカードローン 問い合わせ,30,0.0,0.0,19,1,0.01,,1766229259,カードローン,match_keywords,6,4998,5998,True
+paypayカードローン 審査,720,633.48570432,3.92,15,28,0.28,"3,1",1778530650,カードローン,match_keywords_limit50_-searchVolume,7,898,998,True
+paypayカードローン 返済額,90,0.0,0.0,19,1,0.01,,1766229259,カードローン,match_keywords,4,2998,3998,True
+paypayカードローン 限度額,0,0.0,0.0,17,1,0.0,,1766229259,カードローン,match_keywords,9,7998,8998,True
+paypayカードローン 電話,50,797.51325276,4.935,22,13,0.13,,1766229259,カードローン,match_keywords,5,3998,4998,True
+paypay銀行 カードローン atm,30,967.1969235600001,5.985,19,19,0.19,,1766229259,カードローン,match_keywords_limit300,9,4798,5398,True
 paypay銀行 カードローン いくら,0,0.0,0.0,12,1,0.0,,1766159471,カードローン,match_keywords+match_keywords_limit50_-searchVolume,49,8898,8998,True
-paypay銀行 カードローン いつ,,,,,,,,,カードローン,match_keywords,10,8998,,False
-paypay銀行 カードローン おまとめローン,,,,,,,,,カードローン,match_keywords,10,8998,,False
+paypay銀行 カードローン いつ,0,0.0,0.0,12,1,0.0,,1766229298,カードローン,match_keywords,10,8998,,True
+paypay銀行 カードローン おまとめローン,0,0.0,0.0,12,1,0.0,,1766229298,カードローン,match_keywords,10,8998,,True
 paypay銀行 カードローン やり方,0,0.0,0.0,12,1,0.0,,1766159471,カードローン,match_keywords+match_keywords_limit50_-searchVolume,49,8898,8998,True
-paypay銀行 カードローン カードなし,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
-paypay銀行 カードローン カードレス,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-paypay銀行 カードローン キャンペーン,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-paypay銀行 カードローン バレる,,,,,,,,,カードローン,match_keywords_limit100_-searchVolume,4,5598,5798,False
+paypay銀行 カードローン カードなし,0,0.0,0.0,12,1,0.0,,1766229298,カードローン,match_keywords,8,6998,7998,True
+paypay銀行 カードローン カードレス,20,883.16310564,5.465,24,35,0.35,,1766229298,カードローン,match_keywords,6,4998,5998,True
+paypay銀行 カードローン キャンペーン,70,640.75786164,3.965,20,23,0.23,,1766229298,カードローン,match_keywords,4,2998,3998,True
+paypay銀行 カードローン バレる,20,456.52987620000005,2.825,29,50,0.5,,1766229298,カードローン,match_keywords_limit100_-searchVolume,4,5598,5798,True
 paypay銀行 カードローン メリット,0,0.0,0.0,12,1,0.0,,1766157590,カードローン,match_keywords+match_keywords_limit300,15,8398,8998,True
-paypay銀行 カードローン 上限,,,,,,,,,カードローン,match_keywords,10,8998,,False
+paypay銀行 カードローン 上限,0,0.0,0.0,12,1,0.0,,1766229298,カードローン,match_keywords,10,8998,,True
 paypay銀行 カードローン 任意整理,0,0.0,0.0,12,1,0.0,,1766159519,カードローン,match_keywords+match_keywords_limit50_-searchVolume,53,9298,9398,True
-paypay銀行 カードローン 何歳まで,,,,,,,,,カードローン,match_keywords,10,8998,,False
+paypay銀行 カードローン 何歳まで,0,0.0,0.0,12,1,0.0,,1766229298,カードローン,match_keywords,10,8998,,True
 paypay銀行 カードローン 利子,0,0.0,0.0,12,1,0.0,,1766158248,カードローン,match_keywords+match_keywords_limit100_-searchVolume,22,9198,9398,True
-paypay銀行 カードローン 口コミ,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,5,4498,4598,False
-paypay銀行 カードローン 営業時間,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-paypay銀行 カードローン 在籍確認なし,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-paypay銀行 カードローン 審査結果,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,9,4898,4998,False
-paypay銀行 カードローン 年会費,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-paypay銀行 カードローン 年齢,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-paypay銀行 カードローン 年齢制限,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-paypay銀行 カードローン 引き出し,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-paypay銀行 カードローン 引き落とし時間,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-paypay銀行 カードローン 手数料,,,,,,,,,カードローン,match_keywords,10,8998,,False
-paypay銀行 カードローン 支払い,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-paypay銀行 カードローン 本人確認,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-paypay銀行 カードローン 流れ,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-paypay銀行 カードローン 無利息,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-paypay銀行 カードローン 確認,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
+paypay銀行 カードローン 口コミ,40,1978.02679104,12.24,20,23,0.23,,1766229298,カードローン,match_keywords_limit50_-searchVolume,5,4498,4598,True
+paypay銀行 カードローン 営業時間,0,0.0,0.0,12,1,0.0,,1766229298,カードローン,match_keywords,9,7998,8998,True
+paypay銀行 カードローン 在籍確認なし,50,358.75976112000006,2.22,28,48,0.48,,1766229298,カードローン,match_keywords,5,3998,4998,True
+paypay銀行 カードローン 審査結果,30,2349.71483184,14.54,16,9,0.09,,1766229298,カードローン,match_keywords_limit50_-searchVolume,9,4898,4998,True
+paypay銀行 カードローン 年会費,0,0.0,0.0,12,1,0.0,,1766229298,カードローン,match_keywords,9,7998,8998,True
+paypay銀行 カードローン 年齢,40,1244.3469192,7.7,19,18,0.18,,1766229298,カードローン,match_keywords,5,3998,4998,True
+paypay銀行 カードローン 年齢制限,0,0.0,0.0,12,1,0.0,,1766229298,カードローン,match_keywords,9,7998,8998,True
+paypay銀行 カードローン 引き出し,70,1524.7289847600002,9.435,20,22,0.22,,1766229298,カードローン,match_keywords,4,2998,3998,True
+paypay銀行 カードローン 引き落とし時間,50,0.0,0.0,14,3,0.03,,1766229298,カードローン,match_keywords,4,2998,3998,True
+paypay銀行 カードローン 手数料,0,0.0,0.0,12,1,0.0,,1766229298,カードローン,match_keywords,10,8998,,True
+paypay銀行 カードローン 支払い,0,0.0,0.0,12,1,0.0,,1766229298,カードローン,match_keywords,9,7998,8998,True
+paypay銀行 カードローン 本人確認,0,0.0,0.0,12,1,0.0,,1766229298,カードローン,match_keywords,9,7998,8998,True
+paypay銀行 カードローン 流れ,0,0.0,0.0,12,1,0.0,,1766229298,カードローン,match_keywords,9,7998,8998,True
+paypay銀行 カードローン 無利息,0,0.0,0.0,12,1,0.0,,1766229298,カードローン,match_keywords,9,7998,8998,True
+paypay銀行 カードローン 確認,0,0.0,0.0,12,1,0.0,,1766229298,カードローン,match_keywords,9,7998,8998,True
 paypay銀行 カードローン 返済の仕方,0,0.0,0.0,12,1,0.0,,1766158248,カードローン,match_keywords+match_keywords_limit100_-searchVolume,22,9198,9398,True
 paypay銀行 カードローン 遅れた,0,0.0,0.0,12,1,0.0,,1766159471,カードローン,match_keywords+match_keywords_limit50_-searchVolume,49,8898,8998,True
-paypay銀行 カードローン 遅延,,,,,,,,,カードローン,match_keywords,10,8998,,False
-paypay銀行 カードローン 金利,,,,,,,,,カードローン,match_keywords_limit100,8,1398,1598,False
-paypay銀行 カードローン 金利確認,,,,,,,,,カードローン,match_keywords,10,8998,,False
-paypay銀行 カードローン 金額,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-paypay銀行 カードローン 電話,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-paypay銀行 カードローンなし,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
-paypay銀行 カードローンのご案内,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-paypay銀行 カードローン優遇,,,,,,,,,カードローン,match_keywords_limit100_-searchVolume,4,5598,5798,False
-paypay銀行 カードローン同時申し込み,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-paypay銀行 カードローン在籍確認,,,,,,,,,カードローン,match_keywords_limit100,5,798,998,False
-paypay銀行 カードローン増額,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,33,3498,3598,False
+paypay銀行 カードローン 遅延,0,0.0,0.0,12,1,0.0,,1766229298,カードローン,match_keywords,10,8998,,True
+paypay銀行 カードローン 金利,390,552.68395632,3.42,35,3,0.03,1,1776590091,カードローン,match_keywords_limit100,8,1398,1598,True
+paypay銀行 カードローン 金利確認,0,0.0,0.0,12,1,0.0,,1766229329,カードローン,match_keywords,10,8998,,True
+paypay銀行 カードローン 金額,0,0.0,0.0,12,1,0.0,,1766229329,カードローン,match_keywords,9,7998,8998,True
+paypay銀行 カードローン 電話,70,1298.48409036,8.035,20,21,0.21,,1766229329,カードローン,match_keywords,4,2998,3998,True
+paypay銀行 カードローンなし,0,0.0,0.0,17,1,0.0,,1766229329,カードローン,match_keywords,8,6998,7998,True
+paypay銀行 カードローンのご案内,0,0.0,0.0,17,1,0.0,,1766229329,カードローン,match_keywords,9,7998,8998,True
+paypay銀行 カードローン優遇,20,3195.7091333999997,19.775,24,19,0.19,,1766229329,カードローン,match_keywords_limit100_-searchVolume,4,5598,5798,True
+paypay銀行 カードローン同時申し込み,30,1850.3600291999999,11.45,28,33,0.33,,1766229329,カードローン,match_keywords,5,3998,4998,True
+paypay銀行 カードローン在籍確認,720,625.4055295200001,3.87,14,4,0.04,1,1775416283,カードローン,match_keywords_limit100,5,798,998,True
+paypay銀行 カードローン増額,70,723.98366208,4.48,24,18,0.18,,1766229329,カードローン,match_keywords_limit50_-searchVolume,33,3498,3598,True
 paypay銀行 カードローン契約,0,0.0,0.0,17,1,0.0,,1766158260,カードローン,match_keywords+match_keywords_limit100_-searchVolume,23,9398,,True
 paypay銀行 カードローン残高,0,0.0,0.0,17,1,0.0,,1766158248,カードローン,match_keywords+match_keywords_limit100_-searchVolume,22,9198,9398,True
-paypay銀行 カードローン特典,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-paypay銀行 カードローン特典とは,,,,,,,,,カードローン,match_keywords,10,8998,,False
-paypay銀行 カードローン返済,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-paypay銀行 カードローン金利,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,13,1498,1598,False
+paypay銀行 カードローン特典,30,2117.81381508,13.105,26,25,0.25,,1766229329,カードローン,match_keywords,6,4998,5998,True
+paypay銀行 カードローン特典とは,0,0.0,0.0,17,1,0.0,,1766229329,カードローン,match_keywords,10,8998,,True
+paypay銀行 カードローン返済,50,0.0,0.0,19,1,0.01,,1766229329,カードローン,match_keywords,4,2998,3998,True
+paypay銀行 カードローン金利,390,342.59941152000005,2.12,40,2,0.02,1,1766908078,カードローン,match_keywords_limit50_-searchVolume,13,1498,1598,True
 paypay銀行のカードローン審査,0,0.0,0.0,30,1,0.0,,1766158189,カードローン,match_keywords+match_keywords_limit100_-searchVolume,17,8198,8398,True
-paypay銀行カードローン おまとめ,,,,,,,,,カードローン,match_keywords,10,8998,,False
-paypay銀行カードローン 仮審査,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-paypay銀行カードローン 口座,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-paypay銀行カードローン借り方,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-paypay銀行カードローン審査 5ch,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,13,1498,1598,False
-paypay銀行カードローン審査時間,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,11,1298,1398,False
-sbi カードローン,,,,,,,,,カードローン,match_keywords_limit100,5,798,998,False
+paypay銀行カードローン おまとめ,0,0.0,0.0,17,1,0.0,,1766229329,カードローン,match_keywords,10,8998,,True
+paypay銀行カードローン 仮審査,70,3621.5343453600003,22.41,25,23,0.23,,1766229329,カードローン,match_keywords,4,2998,3998,True
+paypay銀行カードローン 口座,0,0.0,0.0,17,1,0.0,,1766229329,カードローン,match_keywords,9,7998,8998,True
+paypay銀行カードローン借り方,70,321.59095704000003,1.99,36,14,0.14,,1766229329,カードローン,match_keywords,4,2998,3998,True
+paypay銀行カードローン審査 5ch,390,0.0,0.0,18,1,0.0,"1,4",1780504452,カードローン,match_keywords_limit50_-searchVolume,13,1498,1598,True
+paypay銀行カードローン審査時間,480,542.17972908,3.355,14,4,0.04,1,1775758758,カードローン,match_keywords_limit50_-searchVolume,11,1298,1398,True
+sbi カードローン,720,1721.0772324000002,10.65,28,46,0.46,2,1774319896,カードローン,match_keywords_limit100,5,798,998,True
 sbi カードローン フリーローン 違い,0,0.0,0.0,4,1,0.0,,1766157590,カードローン,match_keywords+match_keywords_limit300,15,8398,8998,True
-sbiすみしんネット銀行 カードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-sbi新生銀行カードローン for ニッセン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
+sbiすみしんネット銀行 カードローン,0,0.0,0.0,17,1,0.0,,1766229329,カードローン,match_keywords,9,7998,8998,True
+sbi新生銀行カードローン for ニッセン,0,0.0,0.0,12,1,0.0,,1766229329,カードローン,match_keywords,9,7998,8998,True
 sbi新生銀行カードローン 口コミ,0,0.0,0.0,17,1,0.0,,1766159519,カードローン,match_keywords+match_keywords_limit50_-searchVolume,53,9298,9398,True
-sbi新生銀行カードローン 在籍確認,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-sbi新生銀行カードローンatm,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-sbi新生銀行カードローン審査,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-sbi新生銀行本店カードローン,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
+sbi新生銀行カードローン 在籍確認,0,0.0,0.0,17,1,0.0,,1766229329,カードローン,match_keywords,9,7998,8998,True
+sbi新生銀行カードローンatm,20,0.0,0.0,33,5,0.05,,1766229329,カードローン,match_keywords,6,4998,5998,True
+sbi新生銀行カードローン審査,90,558.34007868,3.455,39,25,0.25,,1766229329,カードローン,match_keywords,4,2998,3998,True
+sbi新生銀行本店カードローン,70,0.0,0.0,32,2,0.02,,1766229374,カードローン,match_keywords,4,2998,3998,True
 smbc のカードローン,0,0.0,0.0,17,1,0.0,,1766157580,カードローン,match_keywords+match_keywords_limit300,14,7798,8398,True
-smbc カードローン シミュレーション,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-smbcコンシューマーファイナンス カードローン,,,,,,,,,カードローン,match_keywords_limit100_-searchVolume,1,4998,5198,False
-smbcコンシューマーファイナンス プロミスのカードローン,,,,,,,,,カードローン,match_keywords,10,8998,,False
-smbcダイレクト のカードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-ssgカードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
+smbc カードローン シミュレーション,40,4354.406199720001,26.945,21,26,0.26,,1766229374,カードローン,match_keywords,5,3998,4998,True
+smbcコンシューマーファイナンス カードローン,30,413.70494976000003,2.56,22,10,0.1,,1766229374,カードローン,match_keywords_limit100_-searchVolume,1,4998,5198,True
+smbcコンシューマーファイナンス プロミスのカードローン,0,0.0,0.0,17,1,0.0,,1766229374,カードローン,match_keywords,10,8998,,True
+smbcダイレクト のカードローン,0,0.0,0.0,17,1,0.0,,1766229374,カードローン,match_keywords,9,7998,8998,True
+ssgカードローン,0,0.0,0.0,30,1,0.0,,1766229374,カードローン,match_keywords,9,7998,8998,True
 tsカード カードローン,0,0.0,0.0,17,1,0.0,,1766158224,カードローン,match_keywords+match_keywords_limit100_-searchVolume,20,8798,8998,True
-ufj カードローン シミュレーション,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-ui銀行 カードローン,,,,,,,,,カードローン,match_keywords_limit300,7,3598,4198,False
-visa カードローン 返済方法,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
+ufj カードローン シミュレーション,20,441.17754408,2.73,19,19,0.19,,1766229374,カードローン,match_keywords,6,4998,5998,True
+ui銀行 カードローン,70,666.614421,4.125,38,64,0.64,,1766229374,カードローン,match_keywords_limit300,7,3598,4198,True
+visa カードローン 返済方法,90,441.17754408,2.73,21,25,0.25,,1766229374,カードローン,match_keywords,4,2998,3998,True
 vポイントアッププログラム カードローン,0,0.0,0.0,17,1,0.0,,1766159351,カードローン,match_keywords+match_keywords_limit50_-searchVolume,39,7898,7998,True
-あしぎんカードローン モシカ,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-あしぎんカードローン モシカ mo・shi・ca,,,,,,,,,カードローン,match_keywords,10,8998,,False
+あしぎんカードローン モシカ,40,699.74313768,4.33,28,30,0.3,,1766229374,カードローン,match_keywords,5,3998,4998,True
+あしぎんカードローン モシカ mo・shi・ca,0,0.0,0.0,12,1,0.0,,1766229374,カードローン,match_keywords,10,8998,,True
 あしぎんカードローンもしか,0,0.0,0.0,30,1,0.0,,1766159447,カードローン,match_keywords+match_keywords_limit50_-searchVolume,47,8698,8798,True
-あしぎんカードローン増額,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-いつも カードローン 収入証明書,,,,,,,,,カードローン,match_keywords,10,8998,,False
+あしぎんカードローン増額,90,919.5238922400001,5.69,51,64,0.64,,1766229374,カードローン,match_keywords,4,2998,3998,True
+いつも カードローン 収入証明書,0,0.0,0.0,12,1,0.0,,1766229374,カードローン,match_keywords,10,8998,,True
 いつも カードローン 営業時間,0,0.0,0.0,12,1,0.0,,1766156914,カードローン,match_keywords,9,7998,8998,True
 いつも カードローン 土日,0,0.0,0.0,12,1,0.0,,1766156914,カードローン,match_keywords,9,7998,8998,True
-いつも カードローン 審査,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,29,3098,3198,False
-いつも カードローン 知恵袋,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
-いつも カードローン 評判,,,,,,,,,カードローン,match_keywords,10,8998,,False
-いつも カードローン 郵送物,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
+いつも カードローン 審査,90,845.1862840800001,5.23,33,64,0.64,,1766229374,カードローン,match_keywords_limit50_-searchVolume,29,3098,3198,True
+いつも カードローン 知恵袋,0,0.0,0.0,12,1,0.0,,1766229374,カードローン,match_keywords,8,6998,7998,True
+いつも カードローン 評判,0,0.0,0.0,12,1,0.0,,1766229374,カードローン,match_keywords,10,8998,,True
+いつも カードローン 郵送物,0,0.0,0.0,12,1,0.0,,1766229374,カードローン,match_keywords,9,7998,8998,True
 いつも カードローン 電話,0,0.0,0.0,12,1,0.0,,1766158224,カードローン,match_keywords+match_keywords_limit100_-searchVolume,20,8798,8998,True
-いつもカードローン審査時間,,,,,,,,,カードローン,match_keywords,10,8998,,False
-おすすめカードローン会社,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-おまとめ カードローン おすすめ,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,15,5498,5598,False
-おまとめカードローン,,,,,,,,,カードローン,match_keywords_limit300,3,1198,1798,False
-おまとめカードローン おすすめ,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
+いつもカードローン審査時間,0,0.0,0.0,30,1,0.0,,1766229374,カードローン,match_keywords,10,8998,,True
+おすすめカードローン会社,0,0.0,0.0,30,1,0.0,,1766229374,カードローン,match_keywords,9,7998,8998,True
+おまとめ カードローン おすすめ,20,1201.5219927599999,7.435,43,98,0.98,,1766229374,カードローン,match_keywords_limit50_-searchVolume,15,5498,5598,True
+おまとめカードローン,320,1632.1953096,10.1,34,47,0.47,3,1780759580,カードローン,match_keywords_limit300,3,1198,1798,True
+おまとめカードローン おすすめ,20,1201.5219927599999,7.435,48,98,0.98,,1766229374,カードローン,match_keywords,6,4998,5998,True
 おまとめローンとカードローン,0,0.0,0.0,30,1,0.0,,1766159495,カードローン,match_keywords+match_keywords_limit50_-searchVolume,51,9098,9198,True
-おまとめローンはカードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-お金がない カードローン通らない,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-お金ない カードローン以外,,,,,,,,,カードローン,match_keywords,10,8998,,False
-お金を借りる カードローン,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
-お金を借りる カードローン以外,,,,,,,,,カードローン,match_keywords_limit300,10,5398,5998,False
-お金借りるカードローン,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,28,2998,3098,False
-かぎんカードローン,,,,,,,,,カードローン,match_keywords_limit100,5,798,998,False
-かんたん 安心カードローン 審査,,,,,,,,,カードローン,match_keywords_limit300,10,5398,5998,False
-かんたん安心カードローン 審査,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-きらぼし カードローン,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-きらぼしカードローン,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,4,4398,4498,False
-きらぼし銀行 カードローン 口コミ,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-きらぼし銀行 カードローン 在籍確認,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,13,5298,5398,False
-きらぼし銀行 カードローン 審査,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-きらぼし銀行カードローン,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,13,1498,1598,False
-きらぼし銀行カードローン 審査,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,33,3498,3598,False
+おまとめローンはカードローン,0,0.0,0.0,30,1,0.0,,1766229374,カードローン,match_keywords,9,7998,8998,True
+お金がない カードローン通らない,0,0.0,0.0,17,1,0.0,,1766229374,カードローン,match_keywords,9,7998,8998,True
+お金ない カードローン以外,0,0.0,0.0,17,1,0.0,,1766229374,カードローン,match_keywords,10,8998,,True
+お金を借りる カードローン,10,3217.52560536,19.91,44,86,0.86,,1766229404,カードローン,match_keywords,8,6998,7998,True
+お金を借りる カードローン以外,20,945.3804516,5.85,45,88,0.88,,1766229404,カードローン,match_keywords_limit300,10,5398,5998,True
+お金借りるカードローン,110,2502.43013556,15.485,50,61,0.61,,1766229404,カードローン,match_keywords_limit50_-searchVolume,28,2998,3098,True
+かぎんカードローン,720,1161.9291362400002,7.19,19,60,0.6,2,1775402865,カードローン,match_keywords_limit100,5,798,998,True
+かんたん 安心カードローン 審査,20,882.35508816,5.46,36,76,0.76,,1766229404,カードローン,match_keywords_limit300,10,5398,5998,True
+かんたん安心カードローン 審査,20,882.35508816,5.46,41,76,0.76,,1766229404,カードローン,match_keywords,6,4998,5998,True
+きらぼし カードローン,40,15825.0223458,97.925,40,71,0.71,,1766229404,カードローン,match_keywords,5,3998,4998,True
+きらぼしカードローン,40,11276.69195088,69.78,53,71,0.71,,1766229404,カードローン,match_keywords_limit50_-searchVolume,4,4398,4498,True
+きらぼし銀行 カードローン 口コミ,30,437.94547416,2.71,22,28,0.28,,1766229404,カードローン,match_keywords_limit300,9,4798,5398,True
+きらぼし銀行 カードローン 在籍確認,20,340.17535908,2.105,25,37,0.37,,1766229404,カードローン,match_keywords_limit50_-searchVolume,13,5298,5398,True
+きらぼし銀行 カードローン 審査,70,495.31471524,3.065,28,49,0.49,,1766229404,カードローン,match_keywords,4,2998,3998,True
+きらぼし銀行カードローン,390,1435.0390444800003,8.88,16,59,0.59,1,1778100328,カードローン,match_keywords_limit50_-searchVolume,13,1498,1598,True
+きらぼし銀行カードローン 審査,70,495.31471524,3.065,33,49,0.49,,1766229404,カードローン,match_keywords_limit50_-searchVolume,33,3498,3598,True
 きらぼし銀行カードローン返済日,0,0.0,0.0,30,1,0.0,,1766159375,カードローン,match_keywords+match_keywords_limit50_-searchVolume,41,8098,8198,True
-こうぎんカードローン,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-ごうぎ ん カードローン,,,,,,,,,カードローン,match_keywords_limit300,3,1198,1798,False
-じ ぶん 銀行カードローン 審査,,,,,,,,,カードローン,match_keywords_limit300,4,1798,2398,False
-じ ぶん 銀行カードローン 金利,,,,,,,,,カードローン,match_keywords_limit300,5,2398,2998,False
-じ ぶん 銀行カードローン審査,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,13,1498,1598,False
-じ ぶん 銀行カードローン金利 高い,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-じぶんローン カードローン番号,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-じぶん銀行 カードローン atm,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-じぶん銀行 カードローン アコム,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-じぶん銀行 カードローン カードなし,,,,,,,,,カードローン,match_keywords,10,8998,,False
-じぶん銀行 カードローン 仮審査 本審査,,,,,,,,,カードローン,match_keywords_limit300,7,3598,4198,False
-じぶん銀行 カードローン 即日融資,,,,,,,,,カードローン,match_keywords_limit100_-searchVolume,5,5798,5998,False
-じぶん銀行 カードローン 振り込み,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-じぶん銀行 カードローン 振込,,,,,,,,,カードローン,match_keywords_limit100_-searchVolume,8,4398,4598,False
-じぶん銀行 カードローン 振込サービス,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-じぶん銀行カードローン 即日融資,,,,,,,,,カードローン,match_keywords_limit300,10,5398,5998,False
-じぶん銀行カードローン 審査,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,19,2098,2198,False
-じぶん銀行カードローン 返済額,,,,,,,,,カードローン,match_keywords_limit100,14,2598,2798,False
+こうぎんカードローン,30,850.03438896,5.26,57,86,0.86,,1766229404,カードローン,match_keywords,5,3998,4998,True
+ごうぎ ん カードローン,480,791.8571304000001,4.9,15,56,0.56,3,1778859655,カードローン,match_keywords_limit300,3,1198,1798,True
+じ ぶん 銀行カードローン 審査,320,1010.0218500000001,6.25,33,26,0.26,"4,3",1779419414,カードローン,match_keywords_limit300,4,1798,2398,True
+じ ぶん 銀行カードローン 金利,140,1116.68015736,6.91,13,26,0.26,,1766229404,カードローン,match_keywords_limit300,5,2398,2998,True
+じ ぶん 銀行カードローン審査,390,1068.19910856,6.61,36,22,0.22,4,1780301680,カードローン,match_keywords_limit50_-searchVolume,13,1498,1598,True
+じ ぶん 銀行カードローン金利 高い,70,526.01937948,3.255,11,18,0.18,,1766229404,カードローン,match_keywords,4,2998,3998,True
+じぶんローン カードローン番号,0,0.0,0.0,17,1,0.0,,1766229404,カードローン,match_keywords,9,7998,8998,True
+じぶん銀行 カードローン atm,110,0.0,0.0,14,1,0.01,,1766229404,カードローン,match_keywords,4,2998,3998,True
+じぶん銀行 カードローン アコム,20,0.0,0.0,13,1,0.0,,1766229404,カードローン,match_keywords,6,4998,5998,True
+じぶん銀行 カードローン カードなし,0,0.0,0.0,12,1,0.0,,1766229404,カードローン,match_keywords,10,8998,,True
+じぶん銀行 カードローン 仮審査 本審査,70,0.0,0.0,6,3,0.03,,1766229404,カードローン,match_keywords_limit300,7,3598,4198,True
+じぶん銀行 カードローン 即日融資,20,503.39489004000006,3.115,30,54,0.54,,1766229404,カードローン,match_keywords_limit100_-searchVolume,5,5798,5998,True
+じぶん銀行 カードローン 振り込み,40,0.0,0.0,13,1,0.0,,1766229449,カードローン,match_keywords,5,3998,4998,True
+じぶん銀行 カードローン 振込,40,0.0,0.0,13,1,0.0,,1766229449,カードローン,match_keywords_limit100_-searchVolume,8,4398,4598,True
+じぶん銀行 カードローン 振込サービス,30,0.0,0.0,13,1,0.0,,1766229449,カードローン,match_keywords_limit300,9,4798,5398,True
+じぶん銀行カードローン 即日融資,20,503.39489004000006,3.115,35,54,0.54,,1766229449,カードローン,match_keywords_limit300,10,5398,5998,True
+じぶん銀行カードローン 審査,320,1010.0218500000001,6.25,34,26,0.26,"3,1",1779420017,カードローン,match_keywords_limit50_-searchVolume,19,2098,2198,True
+じぶん銀行カードローン 返済額,170,0.0,0.0,19,1,0.01,,1766229449,カードローン,match_keywords_limit100,14,2598,2798,True
 すけっとカードローン,0,0.0,0.0,30,1,0.0,,1766158189,カードローン,match_keywords+match_keywords_limit100_-searchVolume,17,8198,8398,True
-だいとうカードローン,,,,,,,,,カードローン,match_keywords_limit300,11,5998,6598,False
-ちばぎん カードローン 借り方,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-ちばぎん カードローン審査,,,,,,,,,カードローン,match_keywords_limit300,4,1798,2398,False
-ちばぎんカードローン 審査,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,19,2098,2198,False
-ちばぎんカードローン 返済期間,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-ちばぎんカードローンはすぐ借りれる,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-ちばぎんカードローン返済日,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-ちば興銀カードローン,,,,,,,,,カードローン,match_keywords_limit300,5,2398,2998,False
-つくばカードローン,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-とくしんきゃっするカードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-どこのカードローンも通らない,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-どんな人でも借りれるカードローン,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-ひめぎんカードローン・サポート,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-ひろぎんカードローン,,,,,,,,,カードローン,match_keywords_limit300,4,1798,2398,False
-ほくぎんカードローン atm,,,,,,,,,カードローン,match_keywords_limit300,12,6598,7198,False
-ほくぎんカードローン cm,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-ほくぎんカードローンとは,,,,,,,,,カードローン,match_keywords,10,8998,,False
-みずほ atm カードローン,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,20,2198,2298,False
-みずほ atm カードローン 案内 50万,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,13,1498,1598,False
-みずほ カードローン 100万,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-みずほ カードローン いつから使える,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
-みずほ カードローン キャッシング 違い,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
+だいとうカードローン,10,710.24736492,4.395,55,78,0.78,,1766229449,カードローン,match_keywords_limit300,11,5998,6598,True
+ちばぎん カードローン 借り方,50,1050.422724,6.5,36,76,0.76,,1766229449,カードローン,match_keywords,5,3998,4998,True
+ちばぎん カードローン審査,320,2323.8582724800003,14.38,12,81,0.81,1,1761228662,カードローン,match_keywords_limit300,4,1798,2398,True
+ちばぎんカードローン 審査,320,2323.8582724800003,14.38,12,81,0.81,3,1761230993,カードローン,match_keywords_limit50_-searchVolume,19,2098,2198,True
+ちばぎんカードローン 返済期間,0,0.0,0.0,17,1,0.0,,1766229449,カードローン,match_keywords,9,7998,8998,True
+ちばぎんカードローンはすぐ借りれる,0,0.0,0.0,30,1,0.0,,1766229449,カードローン,match_keywords,9,7998,8998,True
+ちばぎんカードローン返済日,30,0.0,0.0,34,9,0.09,,1766229449,カードローン,match_keywords_limit300,9,4798,5398,True
+ちば興銀カードローン,170,821.75377716,5.085,57,84,0.84,,1766229449,カードローン,match_keywords_limit300,5,2398,2998,True
+つくばカードローン,20,2618.78465268,16.205,52,68,0.68,,1766229449,カードローン,match_keywords,6,4998,5998,True
+とくしんきゃっするカードローン,0,0.0,0.0,30,1,0.0,,1766229449,カードローン,match_keywords,9,7998,8998,True
+どこのカードローンも通らない,30,1170.00931104,7.24,57,84,0.84,,1766229449,カードローン,match_keywords_limit300,9,4798,5398,True
+どんな人でも借りれるカードローン,30,1181.32155576,7.31,57,86,0.86,,1766229449,カードローン,match_keywords_limit300,9,4798,5398,True
+ひめぎんカードローン・サポート,30,1944.09005688,12.03,43,38,0.38,,1766229449,カードローン,match_keywords,5,3998,4998,True
+ひろぎんカードローン,320,1297.67607288,8.03,23,62,0.62,"1,2",1758814146,カードローン,match_keywords_limit300,4,1798,2398,True
+ほくぎんカードローン atm,10,0.0,0.0,24,17,0.17,,1766229449,カードローン,match_keywords_limit300,12,6598,7198,True
+ほくぎんカードローン cm,30,1220.1063948,7.55,22,12,0.12,,1766229449,カードローン,match_keywords,5,3998,4998,True
+ほくぎんカードローンとは,0,0.0,0.0,30,1,0.0,,1766229449,カードローン,match_keywords,10,8998,,True
+みずほ atm カードローン,260,5265.849917160001,32.585,20,20,0.2,,1766229449,カードローン,match_keywords_limit50_-searchVolume,20,2198,2298,True
+みずほ atm カードローン 案内 50万,390,1118.29619232,6.92,19,26,0.26,"4,1",1779237221,カードローン,match_keywords_limit50_-searchVolume,13,1498,1598,True
+みずほ カードローン 100万,0,0.0,0.0,12,1,0.0,,1766229479,カードローン,match_keywords,9,7998,8998,True
+みずほ カードローン いつから使える,0,0.0,0.0,12,1,0.0,,1766229479,カードローン,match_keywords,8,6998,7998,True
+みずほ カードローン キャッシング 違い,0,0.0,0.0,4,1,0.0,,1766229479,カードローン,match_keywords,9,7998,8998,True
 みずほ カードローン 何日,0,0.0,0.0,12,1,0.0,,1766159471,カードローン,match_keywords+match_keywords_limit50_-searchVolume,49,8898,8998,True
-みずほ カードローン 信用情報,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-みずほ カードローン 審査状況,,,,,,,,,カードローン,match_keywords_limit100_-searchVolume,8,6398,6598,False
+みずほ カードローン 信用情報,0,0.0,0.0,12,1,0.0,,1766229479,カードローン,match_keywords,9,7998,8998,True
+みずほ カードローン 審査状況,10,651.2620888800001,4.03,21,24,0.24,,1766229479,カードローン,match_keywords_limit100_-searchVolume,8,6398,6598,True
 みずほ カードローン 年齢制限,0,0.0,0.0,12,1,0.0,,1766158224,カードローン,match_keywords+match_keywords_limit100_-searchVolume,20,8798,8998,True
-みずほ カードローン 引き落とし 時間,,,,,,,,,カードローン,match_keywords_limit300,6,2998,3598,False
-みずほ カードローン金利,,,,,,,,,カードローン,match_keywords_limit100,5,798,998,False
-みずほ 三井住友 カードローン,,,,,,,,,カードローン,match_keywords,10,8998,,False
-みずほatm カードローン案内 なぜ,,,,,,,,,カードローン,match_keywords_limit100,9,1598,1798,False
-みずほカードローン ダイレクト,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みずほカードローン 在籍確認,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みずほカードローン 審査,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,13,1498,1598,False
-みずほカードローン 審査状況確認,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほカードローン審査,,,,,,,,,カードローン,match_keywords_limit100,9,1598,1798,False
-みずほカードローン金利,,,,,,,,,カードローン,match_keywords_limit300,3,1198,1798,False
-みずほダイレクト カードローン 借入,,,,,,,,,カードローン,match_keywords,10,8998,,False
+みずほ カードローン 引き落とし 時間,110,0.0,0.0,5,1,0.0,,1766229479,カードローン,match_keywords_limit300,6,2998,3598,True
+みずほ カードローン金利,590,211.70057976,1.31,39,18,0.18,"1,3",1778651262,カードローン,match_keywords_limit100,5,798,998,True
+みずほ 三井住友 カードローン,0,0.0,0.0,12,1,0.0,,1766229479,カードローン,match_keywords,10,8998,,True
+みずほatm カードローン案内 なぜ,390,2529.0947124000004,15.65,21,13,0.13,1,1779237218,カードローン,match_keywords_limit100,9,1598,1798,True
+みずほカードローン ダイレクト,50,771.6566934000001,4.775,28,31,0.31,,1766229479,カードローン,match_keywords,4,2998,3998,True
+みずほカードローン 在籍確認,110,502.58687256,3.11,36,56,0.57,,1766229479,カードローン,match_keywords,4,2998,3998,True
+みずほカードローン 審査,390,843.57024912,5.22,15,26,0.26,3,1776580120,カードローン,match_keywords_limit50_-searchVolume,13,1498,1598,True
+みずほカードローン 審査状況確認,30,0.0,0.0,26,24,0.24,,1766229479,カードローン,match_keywords,5,3998,4998,True
+みずほカードローン審査,390,843.57024912,5.22,15,26,0.26,"3,1",1776579597,カードローン,match_keywords_limit100,9,1598,1798,True
+みずほカードローン金利,480,3015.52123536,18.66,41,31,0.31,,1766229479,カードローン,match_keywords_limit300,3,1198,1798,True
+みずほダイレクト カードローン 借入,0,0.0,0.0,12,1,0.0,,1766229479,カードローン,match_keywords,10,8998,,True
 みずほマイレージクラブ カードローン,0,0.0,0.0,17,1,0.0,,1766159495,カードローン,match_keywords+match_keywords_limit50_-searchVolume,51,9098,9198,True
 みずほマイレージクラブカード カードローン,0,0.0,0.0,17,1,0.0,,1766159543,カードローン,match_keywords+match_keywords_limit50_-searchVolume,55,9498,,True
-みずほ銀行 atm カードローン 返済,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,7,4698,4798,False
-みずほ銀行 atm カードローンの案内,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-みずほ銀行 カードローン 50万,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほ銀行 カードローン 70歳以上,,,,,,,,,カードローン,match_keywords,10,8998,,False
-みずほ銀行 カードローン atm 手数料,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほ銀行 カードローン atm 申し込み,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,19,2098,2198,False
-みずほ銀行 カードローン いつから使える,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-みずほ銀行 カードローン おまとめローン,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,7,4698,4798,False
-みずほ銀行 カードローン カードなし,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-みずほ銀行 カードローン カードレス,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みずほ銀行 カードローン キャッシュカード,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほ銀行 カードローン キャッシュバック,,,,,,,,,カードローン,match_keywords,7,5998,6998,False
-みずほ銀行 カードローン キャンペーン,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほ銀行 カードローン クレジットカード,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
-みずほ銀行 カードローン 仮審査,,,,,,,,,カードローン,match_keywords_limit300_-cpc,6,2998,3598,False
-みずほ銀行 カードローン 会社に電話,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-みずほ銀行 カードローン 住所変更,,,,,,,,,カードローン,match_keywords_limit100_-searchVolume,2,5198,5398,False
+みずほ銀行 atm カードローン 返済,30,0.0,0.0,6,2,0.02,,1766229479,カードローン,match_keywords_limit50_-searchVolume,7,4698,4798,True
+みずほ銀行 atm カードローンの案内,0,0.0,0.0,12,1,0.0,,1766229479,カードローン,match_keywords,9,7998,8998,True
+みずほ銀行 カードローン 50万,40,291.69431028,1.805,22,27,0.27,,1766229479,カードローン,match_keywords,5,3998,4998,True
+みずほ銀行 カードローン 70歳以上,0,0.0,0.0,12,1,0.0,,1766229479,カードローン,match_keywords,10,8998,,True
+みずほ銀行 カードローン atm 手数料,40,0.0,0.0,6,1,0.01,,1766229479,カードローン,match_keywords,5,3998,4998,True
+みずほ銀行 カードローン atm 申し込み,320,386.23235544000005,2.39,27,24,0.24,1,1753525175,カードローン,match_keywords_limit50_-searchVolume,19,2098,2198,True
+みずほ銀行 カードローン いつから使える,20,9960.43147596,61.635,23,30,0.3,,1766229479,カードローン,match_keywords,6,4998,5998,True
+みずほ銀行 カードローン おまとめローン,30,8049.470135760001,49.81,23,31,0.31,,1766229479,カードローン,match_keywords_limit50_-searchVolume,7,4698,4798,True
+みずほ銀行 カードローン カードなし,0,0.0,0.0,12,1,0.0,,1766229479,カードローン,match_keywords,9,7998,8998,True
+みずほ銀行 カードローン カードレス,70,753.88030884,4.665,25,38,0.38,,1766229524,カードローン,match_keywords,4,2998,3998,True
+みずほ銀行 カードローン キャッシュカード,40,12758.5960092,78.95,22,27,0.27,,1766229524,カードローン,match_keywords,5,3998,4998,True
+みずほ銀行 カードローン キャッシュバック,10,0.0,0.0,13,1,0.0,,1766229524,カードローン,match_keywords,7,5998,6998,True
+みずほ銀行 カードローン キャンペーン,30,0.0,0.0,17,10,0.1,,1766229524,カードローン,match_keywords,5,3998,4998,True
+みずほ銀行 カードローン クレジットカード,0,0.0,0.0,12,1,0.0,,1766229524,カードローン,match_keywords,8,6998,7998,True
+みずほ銀行 カードローン 仮審査,70,7430.52874608,45.98,22,28,0.29,,1766229524,カードローン,match_keywords_limit300_-cpc,6,2998,3598,True
+みずほ銀行 カードローン 会社に電話,30,4409.35138836,27.285,26,43,0.43,,1766229524,カードローン,match_keywords,6,4998,5998,True
+みずほ銀行 カードローン 住所変更,20,0.0,0.0,14,2,0.02,,1766229524,カードローン,match_keywords_limit100_-searchVolume,2,5198,5398,True
 みずほ銀行 カードローン 何日,0,0.0,0.0,12,1,0.0,,1766158248,カードローン,match_keywords+match_keywords_limit100_-searchVolume,22,9198,9398,True
-みずほ銀行 カードローン 何歳から,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-みずほ銀行 カードローン 何歳まで,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-みずほ銀行 カードローン 借り方,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みずほ銀行 カードローン 借入方法,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほ銀行 カードローン 借入額,,,,,,,,,カードローン,match_keywords,10,8998,,False
-みずほ銀行 カードローン 利息返済,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-みずほ銀行 カードローン 増額,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,9,1098,1198,False
-みずほ銀行 カードローン 審査 厳しい,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
+みずほ銀行 カードローン 何歳から,0,0.0,0.0,12,1,0.0,,1766229524,カードローン,match_keywords,9,7998,8998,True
+みずほ銀行 カードローン 何歳まで,0,0.0,0.0,12,1,0.0,,1766229524,カードローン,match_keywords,9,7998,8998,True
+みずほ銀行 カードローン 借り方,90,44802.145213560005,277.235,20,20,0.2,,1766229524,カードローン,match_keywords,4,2998,3998,True
+みずほ銀行 カードローン 借入方法,30,6863.300475120001,42.47,20,22,0.22,,1766229524,カードローン,match_keywords,5,3998,4998,True
+みずほ銀行 カードローン 借入額,0,0.0,0.0,12,1,0.0,,1766229524,カードローン,match_keywords,10,8998,,True
+みずほ銀行 カードローン 利息返済,0,0.0,0.0,12,1,0.0,,1766229524,カードローン,match_keywords,9,7998,8998,True
+みずほ銀行 カードローン 増額,590,2944.41569712,18.22,18,25,0.25,4,1778651846,カードローン,match_keywords_limit50_-searchVolume,9,1098,1198,True
+みずほ銀行 カードローン 審査 厳しい,50,527.6354144400001,3.265,16,34,0.34,,1766229524,カードローン,match_keywords,4,2998,3998,True
 みずほ銀行 カードローン 審査後,0,0.0,0.0,12,1,0.0,,1766156923,カードローン,match_keywords,10,8998,,True
-みずほ銀行 カードローン 審査期間,,,,,,,,,カードローン,match_keywords_limit300,6,2998,3598,False
-みずほ銀行 カードローン 審査状況,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほ銀行 カードローン 審査結果 来ない,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほ銀行 カードローン 審査結果 確認,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-みずほ銀行 カードローン 年齢制限,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みずほ銀行 カードローン 延滞金,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-みずほ銀行 カードローン 振込返済,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-みずほ銀行 カードローン 本人確認書類,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-みずほ銀行 カードローン 本審査 期間,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-みずほ銀行 カードローン 知恵袋,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-みずほ銀行 カードローン 身に覚えがない,,,,,,,,,カードローン,match_keywords,10,8998,,False
-みずほ銀行 カードローン 返済額 確認,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,13,1498,1598,False
-みずほ銀行 カードローン 遅延損害金,,,,,,,,,カードローン,match_keywords,10,8998,,False
-みずほ銀行 カードローン 金利引き上げ,,,,,,,,,カードローン,match_keywords_limit100_-searchVolume,5,5798,5998,False
-みずほ銀行 カードローンご返済,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-みずほ銀行 カードローンとは,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みずほ銀行 カードローンのご案内,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
+みずほ銀行 カードローン 審査期間,70,540.56369412,3.345,18,14,0.14,,1766229524,カードローン,match_keywords_limit300,6,2998,3598,True
+みずほ銀行 カードローン 審査状況,40,210.0845448,1.3,17,10,0.1,,1766229524,カードローン,match_keywords,5,3998,4998,True
+みずほ銀行 カードローン 審査結果 来ない,40,8471.25526032,52.42,13,24,0.24,,1766229524,カードローン,match_keywords,5,3998,4998,True
+みずほ銀行 カードローン 審査結果 確認,30,4754.37485232,29.42,15,30,0.3,,1766229524,カードローン,match_keywords,6,4998,5998,True
+みずほ銀行 カードローン 年齢制限,50,1140.11266428,7.055,24,36,0.36,,1766229524,カードローン,match_keywords,4,2998,3998,True
+みずほ銀行 カードローン 延滞金,0,0.0,0.0,12,1,0.0,,1766229524,カードローン,match_keywords,9,7998,8998,True
+みずほ銀行 カードローン 振込返済,0,0.0,0.0,12,1,0.0,,1766229524,カードローン,match_keywords,9,7998,8998,True
+みずほ銀行 カードローン 本人確認書類,20,0.0,0.0,16,7,0.07,,1766229524,カードローン,match_keywords,6,4998,5998,True
+みずほ銀行 カードローン 本審査 期間,30,0.0,0.0,11,19,0.19,,1766229524,カードローン,match_keywords,6,4998,5998,True
+みずほ銀行 カードローン 知恵袋,30,31938.50693196,197.635,22,28,0.29,,1766229554,カードローン,match_keywords,6,4998,5998,True
+みずほ銀行 カードローン 身に覚えがない,0,0.0,0.0,12,1,0.0,,1766229554,カードローン,match_keywords,10,8998,,True
+みずほ銀行 カードローン 返済額 確認,390,496.12273272,3.07,18,1,0.01,2,1779246473,カードローン,match_keywords_limit50_-searchVolume,13,1498,1598,True
+みずほ銀行 カードローン 遅延損害金,0,0.0,0.0,12,1,0.0,,1766229554,カードローン,match_keywords,10,8998,,True
+みずほ銀行 カードローン 金利引き上げ,20,4816.59219828,29.805,18,16,0.16,,1766229554,カードローン,match_keywords_limit100_-searchVolume,5,5798,5998,True
+みずほ銀行 カードローンご返済,0,0.0,0.0,17,1,0.0,,1766229554,カードローン,match_keywords,9,7998,8998,True
+みずほ銀行 カードローンとは,90,43164.293781600005,267.1,27,28,0.28,,1766229554,カードローン,match_keywords,4,2998,3998,True
+みずほ銀行 カードローンのご案内,0,0.0,0.0,17,1,0.0,,1766229554,カードローン,match_keywords,8,6998,7998,True
 みずほ銀行 カードローンの案内,0,0.0,0.0,17,1,0.0,,1766156923,カードローン,match_keywords,10,8998,,True
-みずほ銀行 カードローン審査時間,,,,,,,,,カードローン,match_keywords_limit100,9,1598,1798,False
-みずほ銀行 カードローン専用ダイヤル,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-みずほ銀行 カードローン返済,,,,,,,,,カードローン,match_keywords_limit100,5,798,998,False
-みずほ銀行 カードローン返済日,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,17,1898,1998,False
+みずほ銀行 カードローン審査時間,390,381.38425056,2.36,17,21,0.21,1,1770818065,カードローン,match_keywords_limit100,9,1598,1798,True
+みずほ銀行 カードローン専用ダイヤル,30,0.0,0.0,19,1,0.01,,1766229554,カードローン,match_keywords_limit300,9,4798,5398,True
+みずほ銀行 カードローン返済,720,226.2448944,1.4,27,1,0.01,1,1769574335,カードローン,match_keywords_limit100,5,798,998,True
+みずほ銀行 カードローン返済日,320,1422.1107648000002,8.8,18,7,0.07,1,1776728032,カードローン,match_keywords_limit50_-searchVolume,17,1898,1998,True
 みずほ銀行 住宅ローン カードローン,0,0.0,0.0,12,1,0.0,,1766159519,カードローン,match_keywords+match_keywords_limit50_-searchVolume,53,9298,9398,True
 みずほ銀行カードローン いくら借りれる,0,0.0,0.0,17,1,0.0,,1766158260,カードローン,match_keywords+match_keywords_limit100_-searchVolume,23,9398,,True
-みずほ銀行カードローン まとめ,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
-みずほ銀行カードローン オリコ,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-みずほ銀行カードローン キャンセル,,,,,,,,,カードローン,match_keywords,10,8998,,False
-みずほ銀行カードローン コンビニ,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほ銀行カードローン ハガキ,,,,,,,,,カードローン,match_keywords_limit300,11,5998,6598,False
-みずほ銀行カードローン バレる,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほ銀行カードローン メリット,,,,,,,,,カードローン,match_keywords,7,5998,6998,False
-みずほ銀行カードローン 会社に連絡,,,,,,,,,カードローン,match_keywords,10,8998,,False
-みずほ銀行カードローン 使い方,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
+みずほ銀行カードローン まとめ,10,0.0,0.0,44,86,0.86,,1766229554,カードローン,match_keywords,8,6998,7998,True
+みずほ銀行カードローン オリコ,30,415.32098472,2.57,24,19,0.19,,1766229554,カードローン,match_keywords_limit300,9,4798,5398,True
+みずほ銀行カードローン キャンセル,0,0.0,0.0,17,1,0.0,,1766229554,カードローン,match_keywords,10,8998,,True
+みずほ銀行カードローン コンビニ,30,327.2470794,2.025,21,9,0.09,,1766229554,カードローン,match_keywords,5,3998,4998,True
+みずほ銀行カードローン ハガキ,10,9175.0384854,56.775,24,17,0.17,,1766229554,カードローン,match_keywords_limit300,11,5998,6598,True
+みずほ銀行カードローン バレる,40,31098.16875276,192.435,28,30,0.3,,1766229554,カードローン,match_keywords,5,3998,4998,True
+みずほ銀行カードローン メリット,10,0.0,0.0,18,1,0.0,,1766229554,カードローン,match_keywords,7,5998,6998,True
+みずほ銀行カードローン 会社に連絡,0,0.0,0.0,17,1,0.0,,1766229554,カードローン,match_keywords,10,8998,,True
+みずほ銀行カードローン 使い方,30,5585.82483924,34.565,26,25,0.25,,1766229554,カードローン,match_keywords,5,3998,4998,True
 みずほ銀行カードローン 信用情報機関,0,0.0,0.0,17,1,0.0,,1766159543,カードローン,match_keywords+match_keywords_limit50_-searchVolume,55,9498,,True
-みずほ銀行カードローン 利息,,,,,,,,,カードローン,match_keywords_limit300,7,3598,4198,False
-みずほ銀行カードローン 在籍確認なかった,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みずほ銀行カードローン 審査5ch,,,,,,,,,カードローン,match_keywords,10,8998,,False
-みずほ銀行カードローン 審査時間,,,,,,,,,カードローン,match_keywords_limit100,8,1398,1598,False
-みずほ銀行カードローン 審査状況,,,,,,,,,カードローン,match_keywords_limit100_-searchVolume,8,4398,4598,False
-みずほ銀行カードローン 専業主婦,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほ銀行カードローン 手数料,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-みずほ銀行カードローン 時間,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-みずほ銀行カードローン 最短,,,,,,,,,カードローン,match_keywords_limit300,13,7198,7798,False
-みずほ銀行カードローン 督促状,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほ銀行カードローン 総量規制,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みずほ銀行カードローン 職場 電話,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
-みずほ銀行カードローン 返済日,,,,,,,,,カードローン,match_keywords_limit300,4,1798,2398,False
-みずほ銀行カードローン 電話番号,,,,,,,,,カードローン,match_keywords_limit300,7,3598,4198,False
+みずほ銀行カードローン 利息,70,81.60976548000001,0.505,23,14,0.14,,1766229554,カードローン,match_keywords_limit300,7,3598,4198,True
+みずほ銀行カードローン 在籍確認なかった,110,3763.74542184,23.29,31,41,0.41,,1766229554,カードローン,match_keywords,4,2998,3998,True
+みずほ銀行カードローン 審査5ch,0,0.0,0.0,17,1,0.0,,1766229554,カードローン,match_keywords,10,8998,,True
+みずほ銀行カードローン 審査時間,390,381.38425056,2.36,17,21,0.21,"3,1",1771679935,カードローン,match_keywords_limit100,8,1398,1598,True
+みずほ銀行カードローン 審査状況,40,210.0845448,1.3,22,10,0.1,,1766229599,カードローン,match_keywords_limit100_-searchVolume,8,4398,4598,True
+みずほ銀行カードローン 専業主婦,40,265.02973344,1.64,27,28,0.29,,1766229599,カードローン,match_keywords,5,3998,4998,True
+みずほ銀行カードローン 手数料,30,0.0,0.0,19,1,0.01,,1766229599,カードローン,match_keywords,6,4998,5998,True
+みずほ銀行カードローン 時間,20,7894.330779600001,48.85,27,28,0.29,,1766229599,カードローン,match_keywords_limit300,9,4798,5398,True
+みずほ銀行カードローン 最短,10,10738.5523092,66.45,32,44,0.44,,1766229599,カードローン,match_keywords_limit300,13,7198,7798,True
+みずほ銀行カードローン 督促状,30,5052.533302440001,31.265,24,17,0.17,,1766229599,カードローン,match_keywords,5,3998,4998,True
+みずほ銀行カードローン 総量規制,70,580.15655064,3.59,25,21,0.21,,1766229599,カードローン,match_keywords,4,2998,3998,True
+みずほ銀行カードローン 職場 電話,0,0.0,0.0,12,1,0.0,,1766229599,カードローン,match_keywords,8,6998,7998,True
+みずほ銀行カードローン 返済日,320,1422.1107648000002,8.8,18,7,0.07,"2,1",1776819091,カードローン,match_keywords_limit300,4,1798,2398,True
+みずほ銀行カードローン 電話番号,70,3118.9474728000005,19.3,29,35,0.35,,1766229599,カードローン,match_keywords_limit300,7,3598,4198,True
 みずほ銀行カードローン19歳,0,0.0,0.0,30,1,0.0,,1766159447,カードローン,match_keywords+match_keywords_limit50_-searchVolume,47,8698,8798,True
-みずほ銀行カードローンcm,,,,,,,,,カードローン,match_keywords_limit100_-searchVolume,4,5598,5798,False
-みずほ銀行カードローンの保証会社は,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
-みずほ銀行カードローンの申し込み,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-みずほ銀行カードローンの返済方法,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
+みずほ銀行カードローンcm,20,0.0,0.0,32,3,0.03,,1766229599,カードローン,match_keywords_limit100_-searchVolume,4,5598,5798,True
+みずほ銀行カードローンの保証会社は,0,0.0,0.0,30,1,0.0,,1766229599,カードローン,match_keywords,8,6998,7998,True
+みずほ銀行カードローンの申し込み,0,0.0,0.0,30,1,0.0,,1766229599,カードローン,match_keywords,9,7998,8998,True
+みずほ銀行カードローンの返済方法,0,0.0,0.0,30,1,0.0,,1766229599,カードローン,match_keywords,9,7998,8998,True
 みずほ銀行カードローンの返済日,0,0.0,0.0,30,1,0.0,,1766156914,カードローン,match_keywords,9,7998,8998,True
 みずほ銀行カードローンの返済日はいつですか,0,0.0,0.0,30,1,0.0,,1766159519,カードローン,match_keywords+match_keywords_limit50_-searchVolume,53,9298,9398,True
-みずほ銀行カードローンの返済額,,,,,,,,,カードローン,match_keywords,10,8998,,False
-みずほ銀行カードローンの金利,,,,,,,,,カードローン,match_keywords,10,8998,,False
+みずほ銀行カードローンの返済額,0,0.0,0.0,30,1,0.0,,1766229599,カードローン,match_keywords,10,8998,,True
+みずほ銀行カードローンの金利,0,0.0,0.0,30,1,0.0,,1766229599,カードローン,match_keywords,10,8998,,True
 みずほ銀行カードローンの電話番号,0,0.0,0.0,30,1,0.0,,1766158260,カードローン,match_keywords+match_keywords_limit100_-searchVolume,23,9398,,True
 みずほ銀行カードローンは何歳まで,0,0.0,0.0,30,1,0.0,,1766159399,カードローン,match_keywords+match_keywords_limit50_-searchVolume,43,8298,8398,True
-みずほ銀行カードローンは在籍確認ある,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-みずほ銀行カードローン一括返済,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みずほ銀行カードローン仮審査結果,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みずほ銀行カードローン任意返済,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほ銀行カードローン借り換え,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほ銀行カードローン借り方,,,,,,,,,カードローン,match_keywords_limit300_-cpc,6,2998,3598,False
-みずほ銀行カードローン口コミ,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みずほ銀行カードローン在籍確認いつ,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-みずほ銀行カードローン審査 なし,,,,,,,,,カードローン,match_keywords_limit300,7,3598,4198,False
-みずほ銀行カードローン審査 土日,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほ銀行カードローン審査期間,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほ銀行カードローン審査結果,,,,,,,,,カードローン,match_keywords_limit100_-searchVolume,2,3198,3398,False
-みずほ銀行カードローン審査結果 来 ない,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みずほ銀行カードローン審査結果時間,,,,,,,,,カードローン,match_keywords_limit300,13,7198,7798,False
-みずほ銀行カードローン専用ダイヤル,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-みずほ銀行カードローン引き落とし,,,,,,,,,カードローン,match_keywords_limit300,8,4198,4798,False
-みずほ銀行カードローン引き落とし時間,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みずほ銀行カードローン最終審査,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みずほ銀行カードローン残高照会,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-みずほ銀行カードローン流れ,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,15,5498,5598,False
-みずほ銀行カードローン窓口,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みずほ銀行カードローン返済遅れ,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みずほ銀行カードローン返済遅れたら,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-みずほ銀行カードローン過払い金,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-みずほ銀行カードローン限度額,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-みなとカードローン,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みなと銀行 カードローン,,,,,,,,,カードローン,match_keywords_limit100,8,1398,1598,False
-みなと銀行カードローン審査,,,,,,,,,カードローン,match_keywords_limit100_-searchVolume,8,6398,6598,False
-みやぎん カードローン 返済,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-みんなのカードローン 口コミ,,,,,,,,,カードローン,match_keywords,10,8998,,False
+みずほ銀行カードローンは在籍確認ある,0,0.0,0.0,30,1,0.0,,1766229599,カードローン,match_keywords,9,7998,8998,True
+みずほ銀行カードローン一括返済,90,1453.62344652,8.995,33,6,0.06,,1766229599,カードローン,match_keywords,4,2998,3998,True
+みずほ銀行カードローン仮審査結果,90,5214.13679844,32.265,39,26,0.26,,1766229599,カードローン,match_keywords,4,2998,3998,True
+みずほ銀行カードローン任意返済,40,923.5639796400001,5.715,37,17,0.17,,1766229599,カードローン,match_keywords,5,3998,4998,True
+みずほ銀行カードローン借り換え,40,10522.00362456,65.11,47,51,0.51,,1766229599,カードローン,match_keywords,5,3998,4998,True
+みずほ銀行カードローン借り方,90,6222.542613480001,38.505,38,22,0.22,,1766229599,カードローン,match_keywords_limit300_-cpc,6,2998,3598,True
+みずほ銀行カードローン口コミ,70,10281.21441552,63.62,36,16,0.16,,1766229599,カードローン,match_keywords,4,2998,3998,True
+みずほ銀行カードローン在籍確認いつ,20,297.35043264,1.84,35,12,0.12,,1766229599,カードローン,match_keywords,6,4998,5998,True
+みずほ銀行カードローン審査 なし,50,365.22390096,2.26,34,51,0.51,,1766229599,カードローン,match_keywords_limit300,7,3598,4198,True
+みずほ銀行カードローン審査 土日,40,291.69431028,1.805,22,13,0.13,,1766229629,カードローン,match_keywords,5,3998,4998,True
+みずほ銀行カードローン審査期間,50,7938.7717410000005,49.125,39,26,0.26,,1766229629,カードローン,match_keywords,5,3998,4998,True
+みずほ銀行カードローン審査結果,90,6772.80251736,41.91,38,20,0.2,,1766229629,カードローン,match_keywords_limit100_-searchVolume,2,3198,3398,True
+みずほ銀行カードローン審査結果 来 ない,50,0.0,0.0,15,4,0.04,,1766229629,カードローン,match_keywords,4,2998,3998,True
+みずほ銀行カードローン審査結果時間,10,0.0,0.0,43,38,0.38,,1766229629,カードローン,match_keywords_limit300,13,7198,7798,True
+みずほ銀行カードローン専用ダイヤル,30,3173.0846439600004,19.635,38,21,0.21,,1766229629,カードローン,match_keywords,6,4998,5998,True
+みずほ銀行カードローン引き落とし,30,1363.12548876,8.435,37,19,0.19,,1766229629,カードローン,match_keywords_limit300,8,4198,4798,True
+みずほ銀行カードローン引き落とし時間,90,1317.87650988,8.155,35,10,0.1,,1766229629,カードローン,match_keywords,4,2998,3998,True
+みずほ銀行カードローン最終審査,50,7771.512122640001,48.09,40,27,0.27,,1766229629,カードローン,match_keywords,4,2998,3998,True
+みずほ銀行カードローン残高照会,30,0.0,0.0,32,2,0.02,,1766229629,カードローン,match_keywords_limit300,9,4798,5398,True
+みずほ銀行カードローン流れ,20,5723.18781084,35.415,42,35,0.35,,1766229629,カードローン,match_keywords_limit50_-searchVolume,15,5498,5598,True
+みずほ銀行カードローン窓口,30,10033.96106664,62.09,38,23,0.23,,1766229629,カードローン,match_keywords,5,3998,4998,True
+みずほ銀行カードローン返済遅れ,90,0.0,0.0,32,1,0.01,,1766229629,カードローン,match_keywords,4,2998,3998,True
+みずほ銀行カードローン返済遅れたら,20,2036.2040496,12.6,35,13,0.13,,1766229629,カードローン,match_keywords_limit300,9,4798,5398,True
+みずほ銀行カードローン過払い金,30,383.00028552000003,2.37,41,30,0.3,,1766229629,カードローン,match_keywords_limit300,9,4798,5398,True
+みずほ銀行カードローン限度額,40,6919.86169872,42.82,39,26,0.26,,1766229629,カードローン,match_keywords,5,3998,4998,True
+みなとカードローン,50,913.0597524000001,5.65,52,69,0.69,,1766229629,カードローン,match_keywords,4,2998,3998,True
+みなと銀行 カードローン,390,1150.61689152,7.12,15,72,0.72,"2,1",1776787247,カードローン,match_keywords_limit100,8,1398,1598,True
+みなと銀行カードローン審査,10,713.4794348400001,4.415,56,83,0.83,,1766229629,カードローン,match_keywords_limit100_-searchVolume,8,6398,6598,True
+みやぎん カードローン 返済,0,0.0,0.0,12,1,0.0,,1766229629,カードローン,match_keywords,9,7998,8998,True
+みんなのカードローン 口コミ,0,0.0,0.0,17,1,0.0,,1766229629,カードローン,match_keywords,10,8998,,True
 みんなの銀行 カードローン 審査 甘い,0,0.0,0.0,4,1,0.0,,1766159495,カードローン,match_keywords+match_keywords_limit50_-searchVolume,51,9098,9198,True
-みんなの銀行カードローン 在籍確認,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-みんなの銀行カードローンゆるい,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-もしかカードローン,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-もみじ銀行 カードローン 審査,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-もみじ銀行カードローン 保証会社,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-ゆうちょ銀行 カードローン 金利,,,,,,,,,カードローン,match_keywords_limit300,10,5398,5998,False
-ゆうちょ銀行カードローン 審査,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,13,1498,1598,False
-りそな カードローン キャッシュバック,,,,,,,,,カードローン,match_keywords_limit300,14,7798,8398,False
-りそな カードローン シミュレーション,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-りそな カードローン フリーローン 違い,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-りそな カードローン 借り方 アプリ,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-りそな カードローン 利率,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-りそな カードローン 利用方法,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
+みんなの銀行カードローン 在籍確認,70,994.6695178800001,6.155,29,35,0.35,,1766229629,カードローン,match_keywords,4,2998,3998,True
+みんなの銀行カードローンゆるい,0,0.0,0.0,30,1,0.0,,1766229629,カードローン,match_keywords,9,7998,8998,True
+もしかカードローン,30,1009.2138325200001,6.245,56,81,0.81,,1766229629,カードローン,match_keywords_limit300,9,4798,5398,True
+もみじ銀行 カードローン 審査,50,961.5408012,5.95,30,54,0.54,,1766229629,カードローン,match_keywords,4,2998,3998,True
+もみじ銀行カードローン 保証会社,30,1324.34064972,8.195,22,13,0.13,,1766229674,カードローン,match_keywords,5,3998,4998,True
+ゆうちょ銀行 カードローン 金利,20,461.37798108000004,2.855,32,63,0.63,,1766229674,カードローン,match_keywords_limit300,10,5398,5998,True
+ゆうちょ銀行カードローン 審査,390,778.9288507200001,4.82,24,78,0.78,4,1779239017,カードローン,match_keywords_limit50_-searchVolume,13,1498,1598,True
+りそな カードローン キャッシュバック,0,0.0,0.0,12,1,0.0,,1766229674,カードローン,match_keywords_limit300,14,7798,8398,True
+りそな カードローン シミュレーション,30,743.3760816,4.6,25,38,0.38,,1766229674,カードローン,match_keywords,5,3998,4998,True
+りそな カードローン フリーローン 違い,0,0.0,0.0,4,1,0.0,,1766229674,カードローン,match_keywords,9,7998,8998,True
+りそな カードローン 借り方 アプリ,90,780.54488568,4.83,9,13,0.13,,1766229674,カードローン,match_keywords,4,2998,3998,True
+りそな カードローン 利率,20,543.7957640400001,3.365,21,26,0.26,,1766229674,カードローン,match_keywords_limit300,9,4798,5398,True
+りそな カードローン 利用方法,0,0.0,0.0,12,1,0.0,,1766229674,カードローン,match_keywords,9,7998,8998,True
 りそな カードローン 振込,0,0.0,0.0,12,1,0.0,,1766159471,カードローン,match_keywords+match_keywords_limit50_-searchVolume,49,8898,8998,True
-りそな カードローン 明細,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
+りそな カードローン 明細,10,0.0,0.0,13,1,0.0,,1766229674,カードローン,match_keywords,8,6998,7998,True
 りそな カードローン 流れ,0,0.0,0.0,12,1,0.0,,1766157580,カードローン,match_keywords+match_keywords_limit300,14,7798,8398,True
-りそな カードローンとは,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-りそなカードローン キャッシュカード,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-りそなカードローン 仮審査,,,,,,,,,カードローン,match_keywords_limit300,11,5998,6598,False
-りそなカードローン 住宅ローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-りそなカードローン 再 引き落とし,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-りそなカードローン 口コミ,,,,,,,,,カードローン,match_keywords_limit300,11,5998,6598,False
-りそなカードローン 審査期間,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
+りそな カードローンとは,30,660.95829864,4.09,26,26,0.26,,1766229674,カードローン,match_keywords,5,3998,4998,True
+りそなカードローン キャッシュカード,0,0.0,0.0,17,1,0.0,,1766229674,カードローン,match_keywords,9,7998,8998,True
+りそなカードローン 仮審査,10,0.0,0.0,19,3,0.03,,1766229674,カードローン,match_keywords_limit300,11,5998,6598,True
+りそなカードローン 住宅ローン,0,0.0,0.0,17,1,0.0,,1766229674,カードローン,match_keywords,9,7998,8998,True
+りそなカードローン 再 引き落とし,90,0.0,0.0,13,1,0.0,,1766229674,カードローン,match_keywords,4,2998,3998,True
+りそなカードローン 口コミ,10,0.0,0.0,23,14,0.14,,1766229674,カードローン,match_keywords_limit300,11,5998,6598,True
+りそなカードローン 審査期間,30,684.3908055600001,4.235,28,30,0.3,,1766229674,カードローン,match_keywords,5,3998,4998,True
 りそなカードローン 結果,0,0.0,0.0,17,1,0.0,,1766158260,カードローン,match_keywords+match_keywords_limit100_-searchVolume,23,9398,,True
-りそなカードローン 返済金額,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-りそなカードローンatm,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-りそなカードローンお取引内容のお知らせ,,,,,,,,,カードローン,match_keywords,10,8998,,False
-りそなカードローン取引期限到来の お知らせ,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-りそなカードローン在籍確認,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-りそなカードローン審査結果 来ない,,,,,,,,,カードローン,match_keywords_limit300,5,2398,2998,False
-りそな銀行 カードローン atm,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-りそな銀行 カードローン ハガキ,,,,,,,,,カードローン,match_keywords,10,8998,,False
-りそな銀行 カードローン 何歳まで,,,,,,,,,カードローン,match_keywords,10,8998,,False
+りそなカードローン 返済金額,20,0.0,0.0,19,3,0.03,,1766229674,カードローン,match_keywords_limit300,9,4798,5398,True
+りそなカードローンatm,40,0.0,0.0,33,4,0.04,,1766229674,カードローン,match_keywords,5,3998,4998,True
+りそなカードローンお取引内容のお知らせ,0,0.0,0.0,30,1,0.0,,1766229674,カードローン,match_keywords,10,8998,,True
+りそなカードローン取引期限到来の お知らせ,110,0.0,0.0,19,2,0.02,,1766229674,カードローン,match_keywords,4,2998,3998,True
+りそなカードローン在籍確認,70,590.66077788,3.655,43,37,0.37,,1766229674,カードローン,match_keywords,4,2998,3998,True
+りそなカードローン審査結果 来ない,140,462.9940160400001,2.865,20,5,0.05,,1766229674,カードローン,match_keywords_limit300,5,2398,2998,True
+りそな銀行 カードローン atm,30,323.206992,2.0,19,19,0.19,,1766229674,カードローン,match_keywords_limit300,9,4798,5398,True
+りそな銀行 カードローン ハガキ,0,0.0,0.0,12,1,0.0,,1766229674,カードローン,match_keywords,10,8998,,True
+りそな銀行 カードローン 何歳まで,0,0.0,0.0,12,1,0.0,,1766229704,カードローン,match_keywords,10,8998,,True
 りそな銀行 カードローン 借入,0,0.0,0.0,12,1,0.0,,1766159399,カードローン,match_keywords+match_keywords_limit50_-searchVolume,43,8298,8398,True
 りそな銀行 カードローン 再引き落とし,0,0.0,0.0,12,1,0.0,,1766158224,カードローン,match_keywords+match_keywords_limit100_-searchVolume,20,8798,8998,True
-りそな銀行 カードローン 審査中,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-りそな銀行 カードローン 審査結果,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
+りそな銀行 カードローン 審査中,30,0.0,0.0,14,3,0.03,,1766229704,カードローン,match_keywords,5,3998,4998,True
+りそな銀行 カードローン 審査結果,70,585.812673,3.625,17,12,0.12,,1766229704,カードローン,match_keywords,4,2998,3998,True
 りそな銀行 カードローン 年齢制限,0,0.0,0.0,12,1,0.0,,1766157590,カードローン,match_keywords+match_keywords_limit300,15,8398,8998,True
-りそな銀行 カードローン 店舗,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
-りそな銀行 カードローン 引き落とし日,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-りそな銀行 カードローン 必要書類,,,,,,,,,カードローン,match_keywords,6,4998,5998,False
-りそな銀行 カードローン 手数料,,,,,,,,,カードローン,match_keywords,8,6998,7998,False
-りそな銀行 カードローン 時間,,,,,,,,,カードローン,match_keywords,10,8998,,False
+りそな銀行 カードローン 店舗,0,0.0,0.0,12,1,0.0,,1766229704,カードローン,match_keywords,8,6998,7998,True
+りそな銀行 カードローン 引き落とし日,20,0.0,0.0,14,2,0.02,,1766229704,カードローン,match_keywords,6,4998,5998,True
+りそな銀行 カードローン 必要書類,20,477.53833068000006,2.955,18,15,0.15,,1766229704,カードローン,match_keywords,6,4998,5998,True
+りそな銀行 カードローン 手数料,0,0.0,0.0,12,1,0.0,,1766229704,カードローン,match_keywords,8,6998,7998,True
+りそな銀行 カードローン 時間,0,0.0,0.0,12,1,0.0,,1766229704,カードローン,match_keywords,10,8998,,True
 りそな銀行 カードローン 期限,0,0.0,0.0,12,1,0.0,,1766159471,カードローン,match_keywords+match_keywords_limit50_-searchVolume,49,8898,8998,True
-りそな銀行 カードローン 規定,,,,,,,,,カードローン,match_keywords,10,8998,,False
-りそな銀行 カードローン 解約,,,,,,,,,カードローン,match_keywords,5,3998,4998,False
-りそな銀行 カードローン 返済 遅れ,,,,,,,,,カードローン,match_keywords_limit300,8,4198,4798,False
-りそな銀行 カードローンとは,,,,,,,,,カードローン,match_keywords_limit100_-searchVolume,2,5198,5398,False
-りそな銀行 カードローンとフリーローンの違い,,,,,,,,,カードローン,match_keywords,10,8998,,False
-りそな銀行 カードローン問い合わせ,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-りそな銀行 カードローン申し込み,,,,,,,,,カードローン,match_keywords_limit300,10,5398,5998,False
-りそな銀行 カードローン返済方法,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-りそな銀行 カードローン返済額,,,,,,,,,カードローン,match_keywords_limit300,4,1798,2398,False
-りそな銀行 キャッシュカード カードローン,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
-りそな銀行カードローン 問い合わせ,,,,,,,,,カードローン,match_keywords_limit300,8,4198,4798,False
-りそな銀行カードローン 申し込み,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-りそな銀行カードローン 解約,,,,,,,,,カードローン,match_keywords_limit300,9,4798,5398,False
-りそな銀行カードローン 返済,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-りそな銀行カードローン 郵送物,,,,,,,,,カードローン,match_keywords,4,2998,3998,False
-りそな銀行カードローン 電話番号,,,,,,,,,カードローン,match_keywords_limit300,11,5998,6598,False
-りそな銀行カードローンお取引内容のお知らせ,,,,,,,,,カードローン,match_keywords,9,7998,8998,False
+りそな銀行 カードローン 規定,0,0.0,0.0,12,1,0.0,,1766229704,カードローン,match_keywords,10,8998,,True
+りそな銀行 カードローン 解約,30,0.0,0.0,13,1,0.0,,1766229704,カードローン,match_keywords,5,3998,4998,True
+りそな銀行 カードローン 返済 遅れ,30,0.0,0.0,5,1,0.0,,1766229704,カードローン,match_keywords_limit300,8,4198,4798,True
+りそな銀行 カードローンとは,20,716.7115047599999,4.435,28,33,0.33,,1766229704,カードローン,match_keywords_limit100_-searchVolume,2,5198,5398,True
+りそな銀行 カードローンとフリーローンの違い,0,0.0,0.0,17,1,0.0,,1766229704,カードローン,match_keywords,10,8998,,True
+りそな銀行 カードローン問い合わせ,50,685.1988230400001,4.24,28,31,0.31,,1766229704,カードローン,match_keywords,4,2998,3998,True
+りそな銀行 カードローン申し込み,20,541.3717116,3.35,34,52,0.52,,1766229704,カードローン,match_keywords_limit300,10,5398,5998,True
+りそな銀行 カードローン返済方法,70,0.0,0.0,19,2,0.02,,1766229704,カードローン,match_keywords,4,2998,3998,True
+りそな銀行 カードローン返済額,210,772.4647108800001,4.78,24,19,0.19,,1766229704,カードローン,match_keywords_limit300,4,1798,2398,True
+りそな銀行 キャッシュカード カードローン,0,0.0,0.0,12,1,0.0,,1766229704,カードローン,match_keywords,9,7998,8998,True
+りそな銀行カードローン 問い合わせ,40,613.28526732,3.795,25,22,0.22,,1766229704,カードローン,match_keywords_limit300,8,4198,4798,True
+りそな銀行カードローン 申し込み,20,541.3717116,3.35,34,52,0.52,,1766229704,カードローン,match_keywords_limit300,9,4798,5398,True
+りそな銀行カードローン 解約,30,0.0,0.0,18,1,0.0,,1766229704,カードローン,match_keywords_limit300,9,4798,5398,True
+りそな銀行カードローン 返済,70,0.0,0.0,18,1,0.0,,1766229704,カードローン,match_keywords,4,2998,3998,True
+りそな銀行カードローン 郵送物,90,1475.4399184800002,9.13,21,8,0.08,,1766229704,カードローン,match_keywords,4,2998,3998,True
+りそな銀行カードローン 電話番号,10,0.0,0.0,21,9,0.09,,1766229704,カードローン,match_keywords_limit300,11,5998,6598,True
+りそな銀行カードローンお取引内容のお知らせ,0,0.0,0.0,30,1,0.0,,1766229704,カードローン,match_keywords,9,7998,8998,True
 りそな銀行カードローン問い合わせ,,,,,,,,,カードローン,match_keywords_limit50_-searchVolume,5,4498,4598,False
 りそな銀行カードローン返済シュミレーション,,,,,,,,,カードローン,match_keywords,10,8998,,False
 ろうきん カードローン いつ届く,,,,,,,,,カードローン,match_keywords,10,8998,,False
