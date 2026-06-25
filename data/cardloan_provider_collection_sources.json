@@ -1,0 +1,67 @@
+{
+  "generated_at": "2026-06-25T12:50:35.516668+00:00",
+  "sources": [
+    {
+      "name": "Yahoo!ファイナンス カードローン商品一覧",
+      "url": "https://finance.yahoo.co.jp/card-loan/item",
+      "item_count": 147
+    },
+    {
+      "name": "マネ会 by Ameba カードローン会社一覧",
+      "url": "https://manekai.ameba.jp/cardloan/company/",
+      "item_count": 186,
+      "children": [
+        {
+          "url": "https://manekai.ameba.jp/cardloan/company/consumer/",
+          "category": "消費者金融・貸金業",
+          "item_count": 5
+        },
+        {
+          "url": "https://manekai.ameba.jp/cardloan/company/other_banks/",
+          "category": "銀行-その他",
+          "item_count": 7
+        },
+        {
+          "url": "https://manekai.ameba.jp/cardloan/company/city_banks/",
+          "category": "銀行-メガ/都市",
+          "item_count": 4
+        },
+        {
+          "url": "https://manekai.ameba.jp/cardloan/company/region_banks/",
+          "category": "銀行-地方",
+          "item_count": 94
+        },
+        {
+          "url": "https://manekai.ameba.jp/cardloan/company/net_banks/",
+          "category": "銀行-ネット",
+          "item_count": 7
+        },
+        {
+          "url": "https://manekai.ameba.jp/cardloan/company/credit_companies/",
+          "category": "信販・カード",
+          "item_count": 3
+        },
+        {
+          "url": "https://manekai.ameba.jp/cardloan/company/credit_associations/",
+          "category": "信用金庫",
+          "item_count": 66
+        }
+      ]
+    },
+    {
+      "name": "既存Ubersuggestキーワード由来候補",
+      "url": "data/cardloan_provider_candidates.csv",
+      "item_count": 117
+    }
+  ],
+  "output_counts": {
+    "provider_candidates": 241,
+    "product_catalog": 361,
+    "keyword_rows_used_for_mentions": 4897
+  },
+  "notes": [
+    "カードローン商材に接続できる提供元候補の網羅を優先した調査データです。",
+    "掲載終了・地域制限・申込可否は商品別の公式ページで別途確認してください。",
+    "kw_mention_countは既存UbersuggestキーワードCSV内で名称・商品名が出た件数です。"
+  ]
+}
